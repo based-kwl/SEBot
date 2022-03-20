@@ -1,0 +1,24 @@
+Analysis:
+Build: SpaceEngine Version 0.9.8.0 beta
+
+Renderer: Intel(R) Iris(R) Plus Graphics
+Software
+
+OpenGL Ver: 4.6.0 - Build 30.0.101.1191
+
+Total RAM: 4095 Mb
+
+Available RAM: 3800 Mb
+
+Total VRAM: UNSUPPORTED
+
+Available VRAM: 1536 Mb
+
+
+Total Errors: 0
+Total Warnings: 0
+
+Errors: 
+
+
+Warnings:

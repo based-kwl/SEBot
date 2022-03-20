@@ -1,0 +1,124 @@
+Q1:Guess which constellation is shown in the picture.
+
+https://cdn.discordapp.com/attachments/702232768935100516/721060923883913256/images.jpg
+
+
+A: Leo Major,Leo
+U: Leo
+Total pts: 1
+
+Q1:You use a 15mm eyepiece on a telescope with 600mm focal length. What magnification would you get?
+A:  40×, 40
+U: 40×
+Total pts: 2
+
+Q1:What's the name of one of the most celebrated nebulae in the sky, located just by Iota Orionis?
+A:  m42, Great Orion Nebula
+U: M42
+Total pts: 3
+
+Q1:Try to name this fascinating object, situated in the constellation of Aquarius. 
+
+https://cdn.discordapp.com/attachments/702232768935100516/722151881849176154/images-1.jpg
+
+
+A: Helix Nebula,NGC 7293
+U: Helix Nebula
+Total pts: 5
+
+Q1:Which telescope was used to capture this image? [EQ-1/6]
+
+https://cdn.discordapp.com/attachments/702232768935100516/722153227528831006/images-2.jpg
+
+
+A: Hubble,Hubble Space Telescope,HST
+U: HST
+Total pts: 6
+
+Q1:Calculate the f-ratio of a 130mm telescope with 650mm focal length.
+A: f/5,1/5
+U: f/5
+Total pts: 7
+
+Q1:What is 3C 273? A) An asteroid ; B) A comet; C) A pulsar; D) A quasar
+A: D,A quasar,Quasar
+U: D
+Total pts: 8
+
+Q1:What is the name of the upcoming Manned Lunar missions, scheduled for 2024?
+A: Artemis
+U: Artemis
+Total pts: 9
+
+Q1:Which type of mirror is preferrable to be used in reflector telescopes?
+A: Parabolic
+U: Parabolic
+Total pts: 10
+
+Q1:Guess the object in the picture: 
+
+https://cdn.discordapp.com/attachments/702232768935100516/723022569242099772/images-7.jpg
+
+
+A: Thor's Helmet,Thor's Helmet Nebula
+U: Thor's Helmet
+Total pts: 11
+
+Q1:How much light years is one parsec made of? Answer with 3 significant figures
+A: 3.26,3.26ly
+U: 3.26
+Total pts: 12
+
+Q1:What's the name of the next major space telescope to be launched?
+A: JWST,James Webb Space Telescope
+U: JWST
+Total pts: 13
+
+Q1:What is this group of galaxies called? 
+
+https://cdn.discordapp.com/attachments/702232768935100516/723037303659823194/images-8.jpg
+
+
+A: Leo Triplet
+U: Leo Triplet
+Total pts: 14
+
+Q1: Identify this famous open cluster. 
+
+https://cdn.discordapp.com/attachments/702232768935100516/723037859807756298/W-7o4N70Zp2enL-SD0E1dkoFMKpod9UrzqRLj_iB-QRDO7JhKnoXgbSrZq5AzcotOnoeipdxgaXv6PP4gZ8VIgw290-h193.jpg
+
+
+A: Coathanger Cluster,Brocchi's Cluster,Collinder 399,Cr 399
+U: Collinder 399
+Total pts: 15
+
+Q1:Which constellation is shown in the picture? 
+
+https://cdn.discordapp.com/attachments/702232768935100516/723038945696546886/IMG_20200618_102822.jpg
+
+
+A: Sagitta
+U: Sagitta
+Total pts: 16
+
+Q1:What is the #code used to identify planetary filters called?
+A: Wratten Number,Wratten Code,Wratten
+U: Wratten Number
+Total pts: 17
+
+Q1:Which filter can be used to identify planetary nebulae out of the surrounding stars using the 'Blinking Technique'?
+A: O-III,O-III filter
+U: O-III
+Total pts: 18
+
+Q1:What type of telescope is always recommended for visual astronomy?
+A: Hail Dobs,Dobsonian,Dob
+U: Hail Dobs
+Total pts: 19
+
+Q1:In which constellation does 'Rasalhague' lie?
+A: Ophiuchus
+U: Ophiuchus
+Total pts: 19.5
+
+Final Score: 19.5/20

@@ -1,0 +1,1716 @@
+SpaceEngine version 0.990.35.1655 beta | x64 | Steam edition
+
+STARTING
+[MT] Start time: 2019/06/27 15:20:29.494
+[MT] OS: Windows 10.0.17134
+[MT] Platform: Win64
+[MT] Executable path:   C:\Steam\steamapps\common\SpaceEngine\system\SpaceEngine.exe
+[MT] Working directory: C:\Steam\steamapps\common\SpaceEngine\system\..\
+[MT] Scanning data directories
+[MT] Data directory "data"
+[MT] Data directory "addons"
+[MT] Data directory "addons/SolarSystemHD"
+[MT] Loading script "config/save-user.cfg"
+[MT] Loading script "config/main-user.cfg"
+[MT] 14 localizations found
+[MT] Loading script "data/locale/eng-gui.cfg"
+[MT] 43 localization strings loaded
+[MT] Loading script "data/textures/common/banner.cfg"
+[MT] Loading  image "data/textures/common/splash03.jpg"
+[MT] Loading  image "data/textures/common/logo0990_1024.png"
+[MT] Detected VR runtime: none
+[MT] Used VR runtime: none
+DONE
+
+INITIALIZING OPENGL
+[MT] Using auto core context version
+[MT] Using auto shader version
+[MT] PixelFormat chosen: 12, bit-depth: 8:8:8:8
+[MT] Vendor:   NVIDIA Corporation
+[MT] Renderer: GeForce GTX 960M/PCIe/SSE2
+[MT] Driver version: 425.31
+[MT] OpenGL version: 4.6.0 NVIDIA 425.31
+[MT] GLSL   version: 4.60 NVIDIA
+[MT] Extensions: GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_import_sync_object GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_win32 GL_EXT_win32_keyed_mutex GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_win32 GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_command_list GL_NV_compute_program5 GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NVX_conditional_render GL_NVX_gpu_memory_info GL_NVX_multigpu_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum GL_WIN_swap_hint WGL_EXT_swap_control 
+[MT] Shader version specification: #version 460 core
+[MT] Initializing NVAPI
+[MT] NVidia driver version: 425.31 r419_50
+[MT] Physical GPUs: 1
+[MT] Logical  GPUs: 1
+[MT] SLI: not supported
+[MT] AFR groups: 1
+[MT] Half float: supported
+[MT] Floating-point texture format: GL_RGBA32F_ARB, GL_RGBA16F_ARB
+[MT] Debug output: supported
+[MT] Reverse floating-point depth buffer is supported (via GL_NV_depth_buffer_float)
+[MT] 3D textures: supported
+[MT] Swap control tear: NOT supported
+[MT] Stereoscopic draw buffers: NOT supported
+[MT] Direct state access: supported
+[MT] Subdata invalidation: supported
+[MT] Binary shader program: supported
+[MT] Sync objects: supported
+[MT] Parallel shader compilation: supported
+[MT] Compressed texture objects: supported
+[MT] Multisampling: supported
+[MT] Max multisamples: 32
+[MT] Max texture image units: 32
+[MT] Max vertex texture image units: 32
+[MT] Max combined texture image units: 192
+[MT] Max texture size: 16384
+[MT] Max rectangle texture size: 16384
+[MT] Max cubemap texture size: 16384
+[MT] Max 3D texture size: 2048
+[MT] Max texture array size: 2048
+[MT] Max sparse texture array size: 2048
+[MT] Max viewport size: 16384 x 16384
+[MT] Max anisotropy: 16
+[MT] Max draw buffers: 8
+[MT] Dual blend: supported
+[MT] Max dual-source draw buffers: 1
+DONE
+
+INITIALIZING OPENAL
+[MT] Detected audio device: Generic Software on Speakers / Headphones (Realtek Audio)
+[MT] Creating OpenAL context
+[MT] Used    device name: Generic Software
+[MT] Default device name: Generic Software
+[MT] Extensions: ALC_ENUMERATE_ALL_EXT ALC_ENUMERATION_EXT ALC_EXT_CAPTURE ALC_EXT_EFX
+[MT] Vendor:   Creative Labs Inc.
+[MT] Renderer: Software
+[MT] OpenAL Version: 1.1
+[MT] OpenAL Extensions: EAX EAX2.0 EAX3.0 EAX4.0 EAX5.0 EAX3.0EMULATED EAX4.0EMULATED AL_EXT_OFFSET AL_EXT_LINEAR_DISTANCE AL_EXT_EXPONENT_DISTANCE
+[MT] Loading sounds
+[MT] Loading  sound "data/sounds/menu/button.ogg"
+[MT] Loading  sound "data/sounds/menu/menu.ogg"
+[MT] Loading  sound "data/sounds/spacecraft/Shuttle_engine.ogg"
+[MT] Loading  sound "data/sounds/spacecraft/Shuttle_hover.ogg"
+[MT] Loading  sound "data/sounds/spacecraft/Shuttle_thruster.ogg"
+[MT] Loading  sound "data/sounds/spacecraft/Starship_engine.ogg"
+[MT] Loading  sound "data/sounds/spacecraft/Starship_thruster.ogg"
+[MT] Loading  sound "data/sounds/spacecraft/Starship_warp.ogg"
+DONE
+
+INITIALIZING LOADER
+[MT] Number of CPUs: 8
+[MT] Worker threads: 6
+[MT] Total      RAM: 16259 Mb
+[MT] Available  RAM: 8059 Mb
+[MT] Max SE     RAM: 8192 Mb
+[MT] Physical  VRAM: 4096 Mb
+[MT] Available VRAM: DISABLED
+[MT] Max SE    VRAM: 4046 Mb (forced by config)
+[MT] System OS VRAM: 50 Mb (from config)
+[MT] Available VRAM: 3996 Mb (Dynamic detection: DISABLED)
+[MT] Scanning pak files
+[MT] Loading "cache/filesys64.dat"
+[MT] Loading "addons/SolarSystemHD/Ariel-Bump-SF-8k.pak":	6 folders, 511 files
+[MT] Loading "addons/SolarSystemHD/Ariel-Surface-SF-4k.pak":	6 folders, 127 files
+[MT] Loading "addons/SolarSystemHD/Mercury-Bump-HD-32k.pak":	6 folders, 8191 files
+[MT] Loading "addons/SolarSystemHD/Mercury-Surface-HD-128k-1.pak":	2 folders, 32768 files
+[MT] Loading "addons/SolarSystemHD/Mercury-Surface-HD-128k-2.pak":	2 folders, 32768 files
+[MT] Loading "addons/SolarSystemHD/Mercury-Surface-HD-128k-3.pak":	2 folders, 32768 files
+[MT] Loading "addons/SolarSystemHD/Mercury-Surface-HD-64k.pak":	ERROR: Bad parameter
+[MT] Loading "addons/SolarSystemHD/Miranda-Bump-SF-8k.pak":	6 folders, 511 files
+[MT] Loading "addons/SolarSystemHD/Miranda-Surface-SF-2k.pak":	6 folders, 31 files
+[MT] Loading "addons/SolarSystemHD/Moon-Bump-KL-64k.pak":	ERROR: Bad parameter
+[MT] Loading "addons/SolarSystemHD/Moon-Surface-KL-64k.pak":	6 folders, 32767 files
+[MT] Loading "addons/SolarSystemHD/Neptune-Surface-SF-2k.pak":	6 folders, 31 files
+[MT] Loading "addons/SolarSystemHD/Oberon-Bump-SF-8k.pak":	6 folders, 511 files
+[MT] Loading "addons/SolarSystemHD/Oberon-Surface-SF-8k.pak":	6 folders, 511 files
+[MT] Loading "addons/SolarSystemHD/Proteus-Bump-SF-1k.pak":	6 folders, 7 files
+[MT] Loading "addons/SolarSystemHD/Proteus-Surface-SF-1k.pak":	6 folders, 7 files
+[MT] Loading "addons/SolarSystemHD/Titania-Bump-SF-8k.pak":	6 folders, 511 files
+[MT] Loading "addons/SolarSystemHD/Titania-Surface-SF-4k.pak":	6 folders, 127 files
+[MT] Loading "addons/SolarSystemHD/Triton-Bump-SE-16k.pak":	6 folders, 2047 files
+[MT] Loading "addons/SolarSystemHD/Triton-Surface-SE-16k.pak":	6 folders, 2047 files
+[MT] Loading "addons/SolarSystemHD/Umbriel-Bump-SF-4k.pak":	6 folders, 127 files
+[MT] Loading "addons/SolarSystemHD/Umbriel-Surface-SF-4k.pak":	6 folders, 127 files
+[MT] Loading "addons/SolarSystemHD/Uranus-Surface-SF-2k.pak":	6 folders, 31 files
+[MT] Loading "addons/SolarSystemHD/Venus-Bump-SE-64k.pak":	ERROR: Bad parameter
+[MT] Loading "addons/SolarSystemHD/Venus-Clouds-SF-2k.pak":	6 folders, 31 files
+[MT] Loading "addons/SolarSystemHD/Venus-Surface-JVV-128k-1.pak":	2 folders, 32768 files
+[MT] Loading "addons/SolarSystemHD/Venus-Surface-JVV-128k-2.pak":	2 folders, 32768 files
+[MT] Loading "addons/SolarSystemHD/Venus-Surface-JVV-128k-3.pak":	2 folders, 32768 files
+[MT] Loading "addons/SolarSystemHD/Venus-Surface-JVV-64k.pak":	6 folders, 32767 files
+[MT] Loading "data/catalogs/Catalogs.pak":	0 folders, 60 files
+[MT] Loading "data/ephemerides/DE436.pak":	0 folders, 1 files
+[MT] Loading "data/locale/Fonts.pak":	0 folders, 16 files
+[MT] Loading "data/models/atmospheres/Atmospheres.pak":	0 folders, 14 files
+[MT] Loading "data/models/common/Common.pak":	0 folders, 6 files
+[MT] Loading "data/models/custom/Nebulae-raymarch.pak":	0 folders, 5 files
+[MT] Loading "data/models/galaxies/Galaxies-sprite.pak":	0 folders, 2 files
+[MT] Loading "data/models/nebulae/Nebulae-sprite.pak":	0 folders, 4 files
+[MT] Loading "data/models/planets/Asteroids/67P.pak":	0 folders, 3 files
+[MT] Loading "data/models/planets/Asteroids/Oumuamua.pak":	0 folders, 3 files
+[MT] Loading "data/models/spacecraft/ShipsModels.pak":	0 folders, 118 files
+[MT] Loading "data/scripts/Scripts.pak":	0 folders, 15 files
+[MT] Loading "data/shaders/DetailedGiantStars.pak":	1 folders, 1 files
+[MT] Loading "data/shaders/Shaders.pak":	0 folders, 116 files
+[MT] Loading "data/textures/common/Common.pak":	0 folders, 18 files
+[MT] Loading "data/textures/common/Menu.pak":	0 folders, 28 files
+[MT] Loading "data/textures/common/Skins.pak":	0 folders, 25 files
+[MT] Loading "data/textures/flares/Flares.pak":	0 folders, 32 files
+[MT] Loading "data/textures/galaxies/GalaxiesTex.pak":	0 folders, 505 files
+[MT] Loading "data/textures/nebulae/NebulaeTex.pak":	0 folders, 229 files
+[MT] Loading "data/textures/planets/Amalthea-Bump-SE.pak":	6 folders, 7 files
+[MT] Loading "data/textures/planets/Amalthea-Surface-SE.pak":	6 folders, 7 files
+[MT] Loading "data/textures/planets/Ariel-Bump-SF.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Ariel-Surface-SF.pak":	6 folders, 127 files
+[MT] Loading "data/textures/planets/Asteroids.pak":	1 folders, 5 files
+[MT] Loading "data/textures/planets/Callisto-Bump-KX.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Callisto-Bump-SE.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Callisto-Surface-JVV.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Ceres-Bump-FGN.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Ceres-Bump-HD.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Ceres-Surface-FGN.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Charon-Bump-SE.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Charon-Surface-KX.pak":	6 folders, 127 files
+[MT] Loading "data/textures/planets/Deimos-Bump-SE.pak":	6 folders, 7 files
+[MT] Loading "data/textures/planets/Deimos-Surface-PBC.pak":	6 folders, 31 files
+[MT] Loading "data/textures/planets/Dione-Bump-KX.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Dione-Surface-PBC.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Earth-Bump-PBC.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Earth-Clouds-SE.pak":	6 folders, 8191 files
+[MT] Loading "data/textures/planets/Earth-Lights-HD.pak":	6 folders, 8191 files
+[MT] Loading "data/textures/planets/Earth-Surface-PBC.pak":	6 folders, 16382 files
+[MT] Loading "data/textures/planets/Enceladus-Bump-KX.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Enceladus-Surface-PBC.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Europa-Bump-BJ-SE.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Europa-Surface-BJ.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Ganymede-Bump-PBC-SE.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Ganymede-Surface-PBC.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Hyperion-Bump-SE.pak":	6 folders, 31 files
+[MT] Loading "data/textures/planets/Hyperion-Surface-JVV.pak":	6 folders, 31 files
+[MT] Loading "data/textures/planets/Iapetus-Bump-VO.pak":	6 folders, 31 files
+[MT] Loading "data/textures/planets/Iapetus-Surface-PBC.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Io-Bump-SE.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Io-Lights-SE.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Io-Surface-PBC.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Jupiter-Surface-BJ.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Mars-Bump-PBC.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Mars-Bump-SE.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Mars-Clouds-dust-HD.pak":	6 folders, 31 files
+[MT] Loading "data/textures/planets/Mars-Clouds-water-HD.pak":	6 folders, 31 files
+[MT] Loading "data/textures/planets/Mars-Surface-PBC.pak":	6 folders, 8191 files
+[MT] Loading "data/textures/planets/Mercury-Bump-HD.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Mercury-Surface-HD.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Mimas-Bump-KX.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Mimas-Surface-KX.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Miranda-Bump-SF.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Miranda-Surface-SF.pak":	6 folders, 31 files
+[MT] Loading "data/textures/planets/Moon-Bump-KL.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Moon-Surface-KL.pak":	6 folders, 8191 files
+[MT] Loading "data/textures/planets/Neptune-Surface-SF.pak":	6 folders, 31 files
+[MT] Loading "data/textures/planets/Oberon-Bump-SF.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Oberon-Surface-SF.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Phobos-Bump-SE.pak":	6 folders, 7 files
+[MT] Loading "data/textures/planets/Phobos-Surface-PS.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Pluto-Bump-SE.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Pluto-Surface-SE.pak":	6 folders, 1675 files
+[MT] Loading "data/textures/planets/Proteus-Bump-SF.pak":	6 folders, 7 files
+[MT] Loading "data/textures/planets/Proteus-Surface-SF.pak":	6 folders, 7 files
+[MT] Loading "data/textures/planets/Rhea-Bump-KX.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Rhea-Surface-PBC.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Rings.pak":	0 folders, 6 files
+[MT] Loading "data/textures/planets/Saturn-Surface-SSS.pak":	6 folders, 127 files
+[MT] Loading "data/textures/planets/Tethys-Bump-KX.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Tethys-Surface-PBC.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Titan-Bump-IR.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Titan-Surface-IR.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Titania-Bump-SF.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Titania-Surface-SF.pak":	6 folders, 127 files
+[MT] Loading "data/textures/planets/Triton-Bump-SE.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Triton-Surface-SE.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Umbriel-Bump-SF.pak":	6 folders, 127 files
+[MT] Loading "data/textures/planets/Umbriel-Surface-SF.pak":	6 folders, 127 files
+[MT] Loading "data/textures/planets/Uranus-Surface-SF.pak":	6 folders, 31 files
+[MT] Loading "data/textures/planets/Venus-Bump-SE.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Venus-Clouds-SF.pak":	6 folders, 31 files
+[MT] Loading "data/textures/planets/Venus-Surface-JVV.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/planets/Vesta-Bump-SE.pak":	6 folders, 511 files
+[MT] Loading "data/textures/planets/Vesta-Surface-HD.pak":	6 folders, 2047 files
+[MT] Loading "data/textures/spacecraft/ShipsTex.pak":	0 folders, 39 files
+[MT] Loading "data/textures/terrain/materials/MaterialsPresets.pak":	0 folders, 6 files
+[MT] Loading "data/textures/terrain/materials/MaterialsTex.pak":	0 folders, 174 files
+[MT] Loading "data/textures/terrain/samples/Palettes_Rev_16.pak":	0 folders, 191 files
+[MT] Loading "data/textures/terrain/samples/SamplesPresets.pak":	0 folders, 223 files
+[MT] Loading "data/textures/terrain/samples/SamplesTex.pak":	0 folders, 77 files
+[MT] Total: 386222 files in 132 paks
+[MT] Initializing filesystem data
+[MT] Loading DLC config
+[MT] Loading script "data/scripts/Scripts.pak/dlc.cfg"
+[MT] 1 DLCs loaded
+[MT] Steam DLC count: 12
+[MT] AppID 500460	available: true	name: "SpaceEngine - Uranus System HD"
+[MT] AppID 500461	available: true	name: "SpaceEngine - Neptune System HD"
+[MT] AppID 1026970	available: true	name: "SpaceEngine PRO"
+[MT] AppID 1083090	available: true	name: "SpaceEngine - Moon HD"
+[MT] AppID 1083280	available: true	name: "SpaceEngine - Mercury HD"
+[MT] AppID 1083281	available: true	name: "SpaceEngine - Venus HD"
+[MT] AppID 1083282	available: true	name: "SpaceEngine - Earth HD"
+[MT] AppID 1083283	available: true	name: "SpaceEngine - Mars HD"
+[MT] AppID 1084070	available: true	name: "SpaceEngine - Asteroids HD"
+[MT] AppID 1084071	available: true	name: "SpaceEngine - Jupiter System HD"
+[MT] AppID 1084072	available: true	name: "SpaceEngine - Saturn System HD"
+[MT] AppID 1084073	available: true	name: "SpaceEngine - Pluto System HD"
+DONE
+
+INITIALIZING ENGINE
+[MT] Number of joysticks detected: 0
+[MT] Number of VR controllers detected: 0
+[MT] Loading script "config/keys.cfg"
+[MT] Initializing SceneRenderer
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_tone_TONEMAP_hdrt_Exposure_tone.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_tone_TONEMAP_hdrt_Exposure_tone_LUMA.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_tone_TONEMAP_hdrt_Exposure_tone_COLOREFFECTS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_combine_TONEMAP_hdrt_Exposure_tone.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_combine_LUMA_TONEMAP_hdrt_Exposure_tone.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_combine_BLOOM_TONEMAP_hdrt_Exposure_tone.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_combine_LUMA_BLOOM_TONEMAP_hdrt_Exposure_tone.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_combine_FLARES_TONEMAP_hdrt_Exposure_tone.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_combine_LUMA_FLARES_TONEMAP_hdrt_Exposure_tone.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_combine_BLOOM_FLARES_TONEMAP_hdrt_Exposure_tone.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_combine_LUMA_BLOOM_FLARES_TONEMAP_hdrt_Exposure_tone.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_final.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_final_DITHERING.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_final_LIMIT_FOV.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_final_DITHERING_LIMIT_FOV.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_msaa_resolve.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_down.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_down_FIRST.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_gauss_blur.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/proj_fisheye.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/proj_fisheye_GUI.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/proj_cylinder.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/3D_interlace.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/3D_interlace_HOR.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/3D_anaglyph.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_copy.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/hdr_copy_cube.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/pbr_spec_cubemap.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/pbr_diff_cubemap.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/fxaa.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/fxaa_lum.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_fill_obj.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_fill_obj_UNIFORMVERT.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_fill_obj_FILL.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj_UNPACK_NORMAL.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj_UNPACK_YCOCG.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj_SHOWMIP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj_ARRAY_SHOWMIP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj_ARRAY_SHOWMIP_UNPACK_NORMAL.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj_ARRAY_SHOWMIP_UNPACK_YCOCG.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj_ARRAY_SHOWMIP_GAMMA.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj_GAMMA.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj_TEXCOORD.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj_TEXCOORD_SHOWMIP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj_TEXCOORD_GAMMA.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj_CUBEMAP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_tex_obj_CUBEMAP_SHOWMIP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_line.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/prim_line_UNIFORMVERT.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/upscale_bicubic_METHOD_1.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/upscale_bicubic_METHOD_2.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/upscale_bicubic_METHOD_3.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/upscale_bicubic_METHOD_1_COLOREFFECTS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/upscale_bicubic_METHOD_2_COLOREFFECTS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/upscale_bicubic_METHOD_3_COLOREFFECTS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/upscale_scanline.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_DISPLACEMENT.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_DISPLACEMENT.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_DISPLACEMENT.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_DISPLACEMENT.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_DISPLACEMENT_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_DISPLACEMENT_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_DISPLACEMENT_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_DISPLACEMENT_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE_RINGS.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_DISPLACEMENT_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_DISPLACEMENT_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_DISPLACEMENT_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_DISPLACEMENT_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_DISPLACEMENT_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_DISPLACEMENT_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_DISPLACEMENT_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_DISPLACEMENT_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_VSDOUBLE_DETAIL_DISPLACEMENT_ATMOSPHERE_RINGS_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/water.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/water_VSDOUBLE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/water_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/water_VSDOUBLE_ATMOSPHERE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/sky.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/sky_THERMAL.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/rings.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/rings_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_SPECULAR.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_ALPHASPEC.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_ALPHATRANSP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_EMISSIVE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_SPECULAR_EMISSIVE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_ALPHASPEC_EMISSIVE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_ALPHATRANSP_EMISSIVE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_pbr.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_pbr_EMISSIVE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_pbr_ECLIPSE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_pbr_EMISSIVE_ECLIPSE.bin"
+[MT] Initializing custom models cache
+[MT] Loading script "addons/models/custom/SpaceEngine.cfg"
+[MT] Loading script "data/shaders/Shaders.pak/nebula_raymarch_uniforms.cfg"
+[MT] Loading script "addons/models/custom/nebula-raymarch.cfg"
+[MT] Loading script "data/models/custom/Nebulae-raymarch.pak/BambusDude.cfg"
+[MT] Loading script "data/models/custom/Duke.cfg"
+[MT] Loading script "data/models/custom/HD-Phunnie-v9r4.cfg"
+[MT] Loading script "data/models/custom/Nebulae-raymarch.pak/JackDole.cfg"
+[MT] Loading script "data/models/custom/Nebulae-raymarch.pak/SpaceEngine.cfg"
+[MT] Initializing galaxies models cache
+[MT] Loading script "data/models/galaxies/Galaxies-sprite.pak/Default.cfg"
+[MT] Loading script "data/models/galaxies/Galaxies-sprite.pak/Kexitt.cfg"
+[MT] Initializing nebulae models cache
+[MT] Loading script "data/models/nebulae/Nebulae-sprite.pak/Astroniki.cfg"
+[MT] Loading script "data/models/nebulae/Bambusdude.cfg"
+[MT] Loading script "data/models/nebulae/Nebulae-sprite.pak/Default.cfg"
+[MT] Loading script "data/models/nebulae/Nebulae-sprite.pak/Voekoevaka.cfg"
+[MT] Loading script "data/models/atmospheres/Atmospheres.pak/atmospheres.cfg"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/atmo_transm.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/lens_flare.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/lens_flare_CUBEMAP.bin"
+[MT] Loading script "data/textures/flares/Flares.pak/Duality flares.cfg"
+[MT] Loading script "data/textures/flares/Flares.pak/Astroniki3 ghosts.cfg"
+[MT] Loading script "data/textures/flares/Flares.pak/Default pseudo.cfg"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/blackhole.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/blackhole_ENV_MAP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/blackhole_ACCR_DISK.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/blackhole_ACCR_DISK_ENV_MAP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/blackhole_STAR.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/blackhole_STAR_ENV_MAP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/blackhole_STAR_ACCR_DISK.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/blackhole_STAR_ACCR_DISK_ENV_MAP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/blackhole_WORMHOLE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/blackhole_WORMHOLE_ENV_MAP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_warp.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_warp_ENV_MAP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down_LOD.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down_LOD_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down_NORM.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down_NORM_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm_planet.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm_planet_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/compress_MODE_BC1.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/compress_MODE_BC3_YCOCG.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/compress_MODE_BC4.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/compress_MODE_BC5.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/compress_MODE_BC5_BC5_BA.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_detail_maps.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_sun_height_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_sun_color_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_sun_glow_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_terra_height_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_terra_color_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_terra_glow_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_selena_height_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_selena_color_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_selena_glow_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_asteroid_height_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_asteroid_color_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_asteroid_glow_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_clouds_height_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_clouds_color_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_clouds_glow_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_gasgiant_height_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_gasgiant_color_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_gasgiant_glow_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_browndwarf_height_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_browndwarf_color_ARRAY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/tg_browndwarf_glow_ARRAY.bin"
+[MT] Procedural generator shaders loaded in 404.805 ms
+[MT] Loading  image "data/textures/common/Common.pak/notex.png"
+[MT] Loading  image "data/textures/common/Common.pak/ibl_brdf_lut.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Desert001_COL.png"
+[MT] Tiles resolution: 512 x 512
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/CrackedSE001_COL.dds"
+[MT] Tiles resolution: 1024 x 1024
+[MT] Loading sample textures from "#/textures/terrain/samples/"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Desert001_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Desert001_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Desert002_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Desert002_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Desert003_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Desert003_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Desert004_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Desert004_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Desert005_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Desert005_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Dunes001_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Dunes001_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Dunes002_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Dunes002_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Forest004_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Forest004_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/ForestSE001_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/ForestSE001_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/ForestSE002_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/ForestSE002_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/ForestSE003_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/ForestSE003_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/ForestSE004_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/ForestSE004_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/LavaFlow001_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/LavaFlow001_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/LavaFlow002_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/LavaFlow002_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/LavaFlow003_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/LavaFlow003_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/MarsMarineris001_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/MarsMarineris001_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Rock001_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Rock001_Disp.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Rock09_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Rock09_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/RockSE003_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/RockSE003_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Rock_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Rock_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Selena001_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Selena001_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Snow00_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Snow00_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Snow01_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Snow01_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Triton001_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Triton001_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Upland001_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Upland001_DISP.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Upland002_COL.png"
+[MT] Loading  image "data/textures/terrain/samples/SamplesTex.pak/Upland002_DISP.png"
+[MT] 26 textures loaded
+[MT] Total VRAM 69.33 Mb
+[MT] Loading detail textures from "#/textures/terrain/materials/"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/CrackedSE001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/CrackedSE001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/CrackedSE001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/CrackedSE002_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/CrackedSE002_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/CrackedSE002_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/CrackedSE003_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/CrackedSE003_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/CrackedSE003_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassSE001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassSE001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassSE001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassSE002_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassSE002_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassSE002_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassSE003_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassSE003_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassSE003_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassSE004_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassSE004_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassSE004_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassShort001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassShort001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GrassShort001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/Grass_test_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/Grass_test_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/Grass_test_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/Ground25_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/Ground25_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/Ground25_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundAsphaltBroken001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundAsphaltBroken001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundAsphaltBroken001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundDirtChunksLarge001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundDirtChunksLarge001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundDirtChunksLarge001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundForest003_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundForest003_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundForest003_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundForest011_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundForest011_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundForest011_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundGravel003_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundGravel003_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundGravel003_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundGravel004_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundGravel004_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundGravel004_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX10_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX10_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX10_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX11_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX11_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX11_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX1_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX1_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX1_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX2_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX2_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX2_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX3_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX3_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX3_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX4_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX4_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX4_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX5_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX5_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX5_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX6_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX6_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX6_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX7_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX7_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX7_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX8_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX8_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX8_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX9_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX9_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundKX9_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundMudCracked001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundMudCracked001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundMudCracked001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundMuddy001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundMuddy001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/GroundMuddy001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/IcyPebbles001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/IcyPebbles001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/IcyPebbles001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/PebblesBeach001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/PebblesBeach001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/PebblesBeach001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/PebblesBeach003_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/PebblesBeach003_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/PebblesBeach003_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/PebblesSE001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/PebblesSE001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/PebblesSE001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/PebblesSE002_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/PebblesSE002_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/PebblesSE002_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/Rock1_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/Rock1_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/Rock1_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/Rock2_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/Rock2_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/Rock2_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockBrown002_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockBrown002_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockBrown002_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockBrown006_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockBrown006_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockBrown006_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockBrown007_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockBrown007_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockBrown007_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockDesert002_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockDesert002_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockDesert002_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockGrey008_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockGrey008_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockGrey008_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockGrey010_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockGrey010_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockGrey010_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockSE001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockSE001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockSE001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockSE002_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockSE002_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockSE002_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockSE003_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockSE003_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockSE003_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockVStreaks_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockVStreaks_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/RockVStreaks_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/Rocks06_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/Rocks06_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/Rocks06_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SandDesertRippled001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SandDesertRippled001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SandDesertRippled001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SandGrainsSE001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SandGrainsSE001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SandGrainsSE001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/SandSE001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/SandSE001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/SandSE001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/SandSE002_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/SandSE002_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/SandSE002_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/SandSE003_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/SandSE003_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/SandSE003_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/SandSE004_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/SandSE004_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/SandSE004_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SandWavy001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SandWavy001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SandWavy001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SandWavy002_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SandWavy002_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SandWavy002_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SnowBlown_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SnowBlown_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SnowBlown_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SnowDunes001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SnowDunes001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SnowDunes001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SnowIceDirty002_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SnowIceDirty002_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SnowIceDirty002_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SnowSE001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SnowSE001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SnowSE001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/SolidLava_COL.dds"
+[MT] ERROR: seTextureGenerator::LoadTextureArray(): Texture "SolidLava_COL.dds" must be in DXT1 (BC1) format (compressed 8-bit RGB)
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SteppeSE001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SteppeSE001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SteppeSE001_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SteppeSE002_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SteppeSE002_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/SteppeSE002_NORM.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/StonesBeach001_COL.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/StonesBeach001_RHAO.dds"
+[MT] Loading  image "data/textures/terrain/materials/MaterialsTex.pak/StonesBeach001_NORM.dds"
+[MT] 63 textures loaded
+[MT] Total VRAM 168.00 Mb
+[MT] Loading planet materials presets
+[MT] Loading script "data/textures/terrain/materials/MaterialsPresets.pak/aquaria.pml"
+[MT] Loading script "data/textures/terrain/materials/MaterialsPresets.pak/grass.pml"
+[MT] Loading script "data/textures/terrain/materials/MaterialsPresets.pak/mars.pml"
+[MT] Loading script "data/textures/terrain/materials/MaterialsPresets.pak/selena.pml"
+[MT] Loading script "data/textures/terrain/materials/MaterialsPresets.pak/snow.pml"
+[MT] Loading script "data/textures/terrain/materials/MaterialsPresets.pak/terra.pml"
+[MT] Loading planet biome presets
+[MT] Biome preset files found: 225
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_airless_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_airless_europa.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_airless_ganymede.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_airless_pluto.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_airless_titan.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_airless_triton.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_airless_white.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_airless_white2.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_arid_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_arid_europa.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_arid_ganymede.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_arid_pluto.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_arid_pluto_variant.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_arid_titan.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_arid_titan2.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_arid_triton.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_arid_white.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_wet_brown.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_wet_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_wet_default_blue_seas.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_wet_default_yellow_seas.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_wet_pluto.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_wet_titan2.cfg"
+[MT] Loading script "data/textures/terrain/samples/aquaria_wet_titan_blue_seas.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_wet_titan_yellow_seas.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_wet_triton.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_wet_white_blue_seas.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/aquaria_wet_white_yellow_seas.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/asteroid_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/asteroid_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/asteroid_grey.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/asteroid_red.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/browndwarf_L_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/browndwarf_L_pink.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/browndwarf_T_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/browndwarf_T_pink.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/browndwarf_Y_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/browndwarf_Y_pink.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_airless_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_airless_graphite.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_airless_oil.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_airless_rust.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_black_black_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_black_blue_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_black_green_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_black_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_dark_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_dark_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_dark_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_dark_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_graphite_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_graphite_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_graphite_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_graphite_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_rust_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_rust_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_rust_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_arid_rust_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_black_black_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_black_blue_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_black_green_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_black_yellow_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_graphite_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_graphite_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_graphite_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_graphite_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_oil_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_oil_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_oil_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_oil_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_rust_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_rust_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_rust_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/carbonia_wet_rust_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/custom_Earth.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/custom_Mars.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/custom_Moon.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_airless_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_airless_grey.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_airless_mercury.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_airless_sandy.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_grey_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_grey_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_grey_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_grey_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_mercury_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_mercury_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_mercury_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_mercury_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_rust_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_rust_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_rust_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_rust_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_yellow_black_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_yellow_blue_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_yellow_green_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_arid_yellow_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_grey_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_grey_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_grey_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_grey_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_mercury_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_mercury_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_mercury_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_mercury_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_sand_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_sand_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_sand_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_sand_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_yellow_black_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_yellow_blue_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_yellow_green_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/ferria_wet_yellow_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_Class_I.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_Class_II.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_Class_III.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_Class_IV.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_Class_I_a.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_Class_I_b.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_Class_I_c.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_Class_V.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_cold_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_cold_saturn.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_cool_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_cool_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_frigid_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_frigid_neptune.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_frigid_uranus.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_hot_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_temperate_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_temperate_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_temperate_light.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_temperate_reddish.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_temperate_reddish2.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_torrid_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/jupiter_warm_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/neptune_cold_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/neptune_cold_saturn.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/neptune_cool_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/neptune_frigid_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/neptune_frigid_neptune.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/neptune_frigid_uranus.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/neptune_hot_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/neptune_temperate_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/neptune_torrid_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/neptune_warm_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_airless_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_airless_ganymede.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_airless_io.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_airless_io1.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_airless_io2.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_airless_mercury.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_airless_moon.cfg"
+[MT] Loading script "data/textures/terrain/samples/Palettes_Rev_16.pak/terra_airless_vesta(enhanced).cfg"
+[MT] Loading script "data/textures/terrain/samples/Palettes_Rev_16.pak/terra_airless_vesta(natural).cfg"
+[MT] Loading script "data/textures/terrain/samples/Palettes_Rev_16.pak/terra_airless_vesta_enhanced.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_airless_vesta_natural.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_earth_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_earth_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_earth_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_earth_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_mars2_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_mars2_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_mars2_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_mars2_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_mars_black_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_mars_black_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_mars_blue_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_mars_green_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_rocky_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_rocky_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_rocky_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_rocky_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_rusty_black_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_rusty_black_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_rusty_blue_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_rusty_green_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_sandy_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_sandy_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_sandy_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_sandy_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_yellow_black_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_yellow_blue_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_yellow_green_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_arid_yellow_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_LB_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_LB_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_LB_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_LB_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_default.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_earth2mars_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_earth2mars_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_earth2mars_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_earth2mars_red.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_earth2mars_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_earth_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_earth_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_earth_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_earth_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_mars2_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_mars2_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_mars2_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_mars2_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_mars_black_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_mars_blue_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_mars_green_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_mars_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_rocky_black.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_rocky_blue.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_rocky_green.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_rocky_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_rusty_black_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_rusty_blue_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_rusty_green_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_rusty_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_yellow_black_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_yellow_black_yellow_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_yellow_blue_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_yellow_green_plants.cfg"
+[MT] Loading script "data/textures/terrain/samples/SamplesPresets.pak/terra_wet_yellow_plants.cfg"
+[MT] Biome preset files loaded: 225
+[MT] Loading interface
+[MT] Loading script "data/locale/Fonts.pak/win1252.cfg"
+[MT] Loading script "data/textures/common/Skins.pak/Flat Blue skin.cfg"
+[MT] Loading  image "data/textures/common/Menu.pak/menu2_neg_x.jpg"
+[MT] Loading  image "data/textures/common/Menu.pak/menu2_pos_x.jpg"
+[MT] Loading  image "data/textures/common/Menu.pak/menu2_neg_y.jpg"
+[MT] Loading  image "data/textures/common/Menu.pak/menu2_pos_y.jpg"
+[MT] Loading  image "data/textures/common/Menu.pak/menu2_neg_z.jpg"
+[MT] Loading  image "data/textures/common/Menu.pak/menu2_pos_z.jpg"
+[MT] Loading  image "data/textures/common/Menu.pak/menu2.jpg"
+[MT] Loading  image "data/locale/Fonts.pak/win1252-font.png"
+[MT] Loading  image "data/locale/Fonts.pak/win1252-font-shd.png"
+[MT] Loading  image "data/locale/Fonts.pak/win1252-font-big.png"
+[MT] Loading  image "data/textures/common/Skins.pak/interface_mat.png"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/gui.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/gui_BLUR_BACKGROUND.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/gui_LAND_MAT.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/billboard_CONST_SIZE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/billboard.bin"
+[MT] Loading JPL ephemerides "data/ephemerides/DE436.pak/linux_p1550p2650.436"
+[MT] JPL ephemerides version: DE436
+DONE
+
+LOADING GALAXIES
+[MT] Loading galaxy bulge texture
+[MT] Loading  image "data/textures/common/Common.pak/sprites_gal.png"
+[MT] Loading  image "data/textures/common/Common.pak/sprites_neb.png"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/star_point_GALAXY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/star_sprite_GALAXY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/star_sprite_blur_GALAXY.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/galaxy_map_point.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/galaxy_map_line.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/galaxy_map_mark.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/galaxy_plane.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/galaxy_plane_MAP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/galaxy_bulge.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/galaxy_model.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/galaxy_model_MAP.bin"
+[MT] Loading galaxies catalogs
+[MT] Loading csv file "data/catalogs/Catalogs.pak/galaxies/NGC-IC.csv"
+[MT] Loading script "data/catalogs/Catalogs.pak/galaxies/BlackholeHosts.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/galaxies/Kexitt.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/galaxies/LocalGroup.sc"
+[MT] Merging duplicate galaxies
+[MT] Building galaxies octree
+[MT] csv cat galaxies: 10859
+[MT] sc  cat galaxies: 151
+[MT] sc  del galaxies: 0
+[MT] Merged  galaxies: 16
+[MT] Deleted galaxies: 0
+[MT] Failed  galaxies: 0
+[MT] Final   galaxies: 10994
+DONE
+
+LOADING CLUSTERS
+[MT] Loading clusters catalogs
+[MT] Loading script "addons/catalogs/clusters/beanbus.sc"
+[MT] Loading script "addons/catalogs/clusters/clusters.sc"
+[MT] Loading script "addons/catalogs/clusters/skyliascluster2.sc"
+[MT] "addons/catalogs/clusters/skyliascluster2.sc" line 1:	ERROR: Syntax error '“Skylias'
+[MT] "addons/catalogs/clusters/skyliascluster2.sc" line 1:	ERROR: Syntax error '”'
+[MT] "addons/catalogs/clusters/skyliascluster2.sc" line 3:	ERROR: Syntax error '“Milky'
+[MT] "addons/catalogs/clusters/skyliascluster2.sc" line 3:	ERROR: Syntax error '”'
+[MT] "addons/catalogs/clusters/skyliascluster2.sc" line 4:	ERROR: Syntax error '“Open”'
+[MT] "addons/catalogs/clusters/skyliascluster2.sc" line 1:	ERROR: Opening bracket '{' expected in the tag 'Cluster'
+[MT] Loading script "data/catalogs/Catalogs.pak/clusters/Extragalactic.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/clusters/Globular.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/clusters/Open.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/clusters/SpaceEngine.sc"
+[MT] Merging duplicate clusters
+[MT] sc  cat clusters: 1286
+[MT] sc  del clusters: 0
+[MT] Merged  clusters: 0
+[MT] Deleted clusters: 0
+[MT] Failed  clusters: 0
+[MT] Final   clusters: 1286
+DONE
+
+LOADING NEBULAE
+[MT] Loading nebulae catalogs
+[MT] Loading script "addons/catalogs/nebulae/ApepCloud.sc"
+[MT] Loading script "addons/catalogs/nebulae/PhunnieRaymarch.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/nebulae/Extragalactic.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/nebulae/Planetary.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/nebulae/RaymarchBambus.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/nebulae/RaymarchPhunnie.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/nebulae/SpaceEngine.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/nebulae/SpriteAstro.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/nebulae/SpriteBambus.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/nebulae/SpriteVoe.sc"
+[MT] Loading nebulae catalogs
+[MT] Merging duplicate nebulae
+[MT] "addons/catalogs/nebulae/PhunnieRaymarch.sc" line 2:	Merging nebulae	"M 82 Starburst"   +   "M 82 Starburst"  ("data/catalogs/Catalogs.pak/nebulae/RaymarchPhunnie.sc" line 21)   =   "M 82 Starburst"
+[MT] sc  cat nebulae: 195
+[MT] sc  del nebulae: 0
+[MT] Merged  nebulae: 1
+[MT] Deleted nebulae: 0
+[MT] Failed  nebulae: 0
+[MT] Final   nebulae: 194
+DONE
+
+LOADING PLANETS
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/corona_plane_proc.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/corona_plane_tex.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/comet_tail.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/accretion_jet.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/aurora_TEX_NOISE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/aurora_DETAIL.bin"
+[MT] Loading planets catalogs
+[MT] Loading script "addons/catalogs/planets/Elevator.sc"
+[MT] Loading script "addons/catalogs/planets/GoldenRatio.sc"
+[MT] "addons/catalogs/planets/GoldenRatio.sc" line 144:	ERROR: Body "1.61803398875 a" has Ocean.Depth or Ocean.Height (13.554200) is different from Surface.BumpOffset (11.981000)
+[MT] "addons/catalogs/planets/GoldenRatio.sc" line 1:	ERROR: Body "1.61803398875 a" has atmosphere composition, but no ocean composition. You must specify both or neither.
+[MT] Loading script "addons/catalogs/planets/Halo.sc"
+[MT] Loading script "addons/catalogs/planets/Reos System.sc"
+[MT] "addons/catalogs/planets/Reos System.sc" line 1:	Star "1.61803398875"	suggesting spectral class "F5 V" instead of "F V" based on Luminosity 1.61803
+[MT] Loading script "addons/catalogs/planets/StationV.sc"
+[MT] Loading script "addons/catalogs/planets/StationVMars.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/Asteroids-NEO.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/Asteroids-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/Asteroids-small.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/Asteroids-with-models.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/Asteroids.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/BlackHoles.sc"
+[MT] Loading script "data/catalogs/planets/BrownDwarfs-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/BrownDwarfs-cand.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/Comets.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/ExoPlanets-cand.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/ExoPlanets-custom.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/ExoPlanets.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/ExoPlanetsSuns-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/ExoPlanetsSuns-custom.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/KuiperBelt-small.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/KuiperBelt.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/Moons-small.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/NeutronStars-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/NeutronStars-custom.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/NeutronStars.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/Planemo.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/SagittariusA.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/SolarSys.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/SpaceEngine.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/Stars-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/planets/WhiteDwarfs-bin.sc"
+[MT] Merging duplicate planets
+[MT] sc  cat planets: 14131
+[MT] sc  del planets: 0
+[MT] Merged  planets: 8
+[MT] Deleted planets: 0
+[MT] Failed  planets: 0
+[MT] Final   planets: 14123
+DONE
+
+LOADING STARS
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/star_point.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/star_sprite.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/star_sprite_blur.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/star_map_point.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/star_map_line.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/star_map_mark.bin"
+[MT] Loading star catalogs
+[MT] Loading csv file "addons/catalogs/stars/lmc.csv"
+[MT] Loading csv file "addons/catalogs/stars/smc.csv"
+[MT] Loading csv file "data/catalogs/Catalogs.pak/stars/HIPPARCOS.csv"
+[MT] Loading script "addons/catalogs/stars/Golden Ratio.sc"
+[MT] Loading script "addons/catalogs/stars/gaiaoctree.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/BlackHoles.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/BrownDwarfs-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/BrownDwarfs.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/ExoPlanetsSuns-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/ExoPlanetsSuns-custom.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/ExoPlanetsSuns.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/NeutronStars-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/NeutronStars-custom.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/NeutronStars.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/Planemo.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/SpaceEngine.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/Stars-bin.sc"
+[MT] Loading script "data/catalogs/stars/Stars-fix.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/Stars.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/WhiteDwarfs-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/WhiteDwarfs.sc"
+[MT] Merging duplicate stars
+[MT] Building stars octree
+[MT] WARNING: seOctree::Build(): OCT_MAX_DEPTH exceeded (10 > 7)
+[MT] bin cat stars: 0
+[MT] csv cat stars: 484706
+[MT] sc  cat stars: 15249
+[MT] sc  del stars: 762
+[MT] Merged  stars: 1341
+[MT] Deleted stars: 739
+[MT] Failed  stars: 0
+[MT] Final   stars: 498388
+[MT] Central stars: 59
+DONE
+
+LOADING SPACECRAFT
+[MT] Loading aerodynamics models
+[MT] Loading script "config/spacecraft.cfg"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Shuttle.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Shuttle.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Shuttle.sss"
+[MT] Loading materials
+[MT] Loading script "addons/textures/spacecraft/40K/CobraDestroyer/Cobra Destroyer.sml"
+[MT] Loading script "addons/textures/spacecraft/Ground/GroundMaterialrs.sml"
+[MT] Loading script "addons/textures/spacecraft/PBR/AllMaterialrs.sml"
+[MT] Loading script "addons/textures/spacecraft/addons/2001/2001.sml"
+[MT] Loading script "addons/textures/spacecraft/addons/Halo/Halo_Ring.sml"
+[MT] Loading script "addons/textures/spacecraft/addons/cable/Cable.sml"
+[MT] Loading script "addons/textures/spacecraft/city/big_city.sml"
+[MT] Loading script "addons/textures/spacecraft/city/dome_city.sml"
+[MT] Loading script "addons/textures/spacecraft/city/dome_city2.sml"
+[MT] Loading script "addons/textures/spacecraft/city/dome_city3.sml"
+[MT] Loading script "addons/textures/spacecraft/city/dome_city_def.sml"
+[MT] Loading script "addons/textures/spacecraft/city/dome_city_port.sml"
+[MT] Loading script "addons/textures/spacecraft/x3tc/LC_M6.sml"
+[MT] Loading script "data/textures/spacecraft/ShipsTex.pak/default/AmS.sml"
+[MT] Loading script "data/textures/spacecraft/ShipsTex.pak/default/Dragonfly/fire_dragonfly.sml"
+[MT] Loading script "data/textures/spacecraft/ShipsTex.pak/default/Mef.sml"
+[MT] Loading script "data/textures/spacecraft/ShipsTex.pak/default/Shuttle.sml"
+[MT] Loading script "data/textures/spacecraft/default/Skylone.sml"
+[MT] Loading script "data/textures/spacecraft/ShipsTex.pak/modules/SHW.sml"
+[MT] Loading script "data/textures/planets/Asteroids.pak/Asteroids/asteroids.sml"
+[MT] Loading script "data/textures/common/Common.pak/VR/Touch.sml"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_FUSION.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_ION.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_AEROSPIKE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_ION2.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_SQUARE.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_CHEMICAL.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_CUSTOM01.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_CUSTOM02.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_CUSTOM03.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_CUSTOM04.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_CUSTOM05.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_CUSTOM06.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_CUSTOM07.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_CUSTOM08.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_CUSTOM09.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_engines_TYPE_CUSTOM10.bin"
+DONE
+
+BUILDING DATABASE
+[MT] Loading script "data/locale/eng-db.cfg"
+[MT] Loading script "data/locale/tribute-eng-db.cfg"
+DONE
+
+INITIALIZING CLUSTERS
+[MT] Initializing catalog clusters parameters
+DONE
+
+INITIALIZING NEBULAE
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/nebula_model.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/nebula_model_MAP.bin"
+[MT] Initializing catalog nebulae parameters
+DONE
+
+INITIALIZING GALAXIES
+[MT] Loading  model "cache/models/galaxies/M82.gm"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex.pak/M82_sys.jpg"
+[MT] Creating subsystems of galaxy "M 82", seed = 171998497
+[MT] Loading  model "cache/models/galaxies/M31.gm"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex.pak/M31_sys.jpg"
+[MT] Creating subsystems of galaxy "Andromeda", seed = -29364697
+[MT] Loading  model "cache/models/galaxies/M33.gm"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex.pak/M33_sys.jpg"
+[MT] Creating subsystems of galaxy "Triangulum", seed = -49330635
+[MT] Loading  model "cache/models/galaxies/Milkyway.gm"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex.pak/MilkyWay_sys.jpg"
+[MT] Creating subsystems of galaxy "Milky Way", seed = -8628293
+[MT] Loading  model "cache/models/galaxies/SMC.gm"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex.pak/SMC_sys.jpg"
+[MT] Creating subsystems of galaxy "Small Magellanic Cloud", seed = -65314584
+[MT] Loading  model "cache/models/galaxies/IC10.gm"
+[MT] Creating subsystems of galaxy "Wolf-Lundmark-Melotte", seed = -1036668751
+DONE
+
+INITIALIZING PLANETS
+[MT] Initializing planets hierarchy
+[MT] Initializing catalog stars parameters
+[MT] "addons/catalogs/planets/Reos System.sc" line 1:	Star "1.61803398875"	suggesting spectral class "F5 V" instead of "F V" based on Luminosity 1.61803
+[MT] Loading script "addons/models/spacecraft/addons/Cable/cable.sss"
+[MT] Loading script "addons/models/spacecraft/city/dome_city_port.sss"
+[MT] Loading script "addons/models/spacecraft/addons/2001/StationVComplete.sss"
+[MT] Loading script "addons/models/spacecraft/addons/Halo/Halo_Ring.sss"
+[MT] Loading script "addons/models/spacecraft/addons/2001/StationV.sss"
+[MT] Loading script "addons/models/spacecraft/addons/2001/StationVComplete.sss"
+[MT] Loading script "data/models/planets/Asteroids/Oumuamua.pak/Oumuamua.sss"
+[MT] Loading script "data/models/planets/Asteroids/67P.pak/67P.sss"
+DONE
+
+INITIALIZING STARS
+[MT] Initializing catalog stars parameters
+DONE
+
+INITIALIZING CONSTELLATIONS
+[MT] Loading constellations catalog
+[MT] Loading script "data/catalogs/Catalogs.pak/stars/Constellations.cfg"
+[MT] 89 constellations loaded
+[MT] Creating constellations VBOs
+DONE
+
+INITIALIZING ENGINE
+[MT] Creating planetary system of star "Solar System", seed = 0
+[MT] 2742 objects found in catalog
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/vr_model.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/vr_model_SPEC.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/vr_laser.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/star_point_PLANET.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/star_sprite_PLANET.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/star_sprite_blur_PLANET.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/body_mark.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/orbit.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/orbit_MAP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/orbit_line.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/orbit_line_MAP.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/particle.bin"
+[MT] Loading script "data/scripts/Scripts.pak/menu/MainMenu.cfg"
+[MT] Loading  image "data/textures/common/Skins.pak/halo0990.png"
+[MT] Loading  image "data/textures/common/logo0990_512.png"
+[MT] Loading  image "data/textures/common/Common.pak/VR/help_oculus.png"
+[MT] Loading  image "data/textures/common/Common.pak/VR/help_vive.png"
+[MT] Loading console history "config/console.cfg"
+[MT] Loading script "config/journal.cfg"
+[MT] Initializing planetary system of star "Solar System"
+[MT] Loading script "data/music/context.cfg"
+[MT] Loading script "config/places-def.cfg"
+[MT] Loading script "config/places-user.cfg"
+[MT] Loading script "addons/models/spacecraft/40K/CobraDestroyer/CobraDestroyer.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/Cerberus.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/Helmet.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/ShaderBall.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/cube.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/cubeGrass.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/cubeGrass2.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/cubeMirror.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/cubeNails.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/cubeRock.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/cubeRock2.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/cubesphere.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/sphere.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/sphereMirror.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/sphereSimple.sss"
+[MT] Loading script "addons/models/spacecraft/PBR/spheres.sss"
+[MT] Loading script "addons/models/spacecraft/addons/2001/Astronaut1.sss"
+[MT] Loading script "addons/models/spacecraft/addons/2001/Astronaut2.sss"
+[MT] Loading script "addons/models/spacecraft/addons/2001/Astronaut2010.sss"
+[MT] Loading script "addons/models/spacecraft/addons/2001/DiscoveryOne.sss"
+[MT] Loading script "addons/models/spacecraft/addons/2001/DiscoveryPod.sss"
+[MT] Loading script "addons/models/spacecraft/addons/2001/OrionIII.sss"
+[MT] Loading script "addons/models/spacecraft/addons/2001/StationV.sss"
+[MT] Loading script "addons/models/spacecraft/addons/2001/StationVComplete.sss"
+[MT] Loading script "addons/models/spacecraft/addons/Halo/Halo_Ring.sss"
+[MT] Loading script "addons/models/spacecraft/addons/cable/Cable.sss"
+[MT] Loading script "addons/models/spacecraft/city/big_city.sss"
+[MT] Loading script "addons/models/spacecraft/city/dome_city.sss"
+[MT] Loading script "addons/models/spacecraft/city/dome_city2.sss"
+[MT] Loading script "addons/models/spacecraft/city/dome_city3.sss"
+[MT] Loading script "addons/models/spacecraft/city/dome_city_def.sss"
+[MT] Loading script "addons/models/spacecraft/city/dome_city_port.sss"
+[MT] Loading script "addons/models/spacecraft/x3tc/LC_M6.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/AmS-B.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/AmS-C.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/AmS-S.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Asterisk.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Barrel-1.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Barrel-2.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/CargoShip.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/CargoShipHeavy.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/DoctorShip.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/DragonFly.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Drone.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Explorer-1.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Explorer-2.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Explorer-2a.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/FuelScoop.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/GaussShip.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/HarmonyIIb.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/JumpFreighter.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/JumpStarship.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/PlanCruise.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Probe.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Shuttle.sss"
+[MT] Loading script "data/models/spacecraft/default/Skylone.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Test.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/TorpedoCarrier.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Wayfarer.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/X-Wing.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Y-Wing.sss"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/map_sphere.bin"
+DONE
+
+STARTING WORKER THREADS
+[MT] Starting worker thread 00
+[MT] Creating shared core GL context (auto version number)
+[00] Running worker thread 00
+[00] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down.bin"
+[00] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down_NORM.bin"
+[00] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm.bin"
+[00] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm_planet.bin"
+[MT] Starting worker thread 01
+[MT] Creating shared core GL context (auto version number)
+[01] Running worker thread 01
+[01] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down.bin"
+[01] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down_NORM.bin"
+[01] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm.bin"
+[01] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm_planet.bin"
+[MT] Starting worker thread 02
+[MT] Creating shared core GL context (auto version number)
+[02] Running worker thread 02
+[02] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down.bin"
+[02] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down_NORM.bin"
+[02] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm.bin"
+[02] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm_planet.bin"
+[MT] Starting worker thread 03
+[MT] Creating shared core GL context (auto version number)
+[03] Running worker thread 03
+[03] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down.bin"
+[03] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down_NORM.bin"
+[03] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm.bin"
+[03] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm_planet.bin"
+[MT] Starting worker thread 04
+[MT] Creating shared core GL context (auto version number)
+[04] Running worker thread 04
+[04] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down.bin"
+[04] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down_NORM.bin"
+[04] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm.bin"
+[04] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm_planet.bin"
+[MT] Starting worker thread 05
+[MT] Creating shared core GL context (auto version number)
+[05] Running worker thread 05
+[05] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down.bin"
+[05] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/mipmap_down_NORM.bin"
+[05] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm.bin"
+[05] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/bump_to_norm_planet.bin"
+[MT] Starting music player thread
+[MT] Running music player thread
+[MT] Loading script "data/scripts/Scripts.pak/menu/MainMenu.cfg"
+DONE
+
+INITIALIZING ENGINE
+[MT] SceneRenderer VRAM stats
+[MT] Main window: resolution 1920x1080	MSAA 0
+[MT] Screen buf : resolution 1920x1080	VRAM 6.57 Mb
+[MT] Mono RT    : resolution 1920x1080	VRAM 59.32 Mb
+[MT] Stereo RT  : resolution 0x0	VRAM 0.00 Mb
+[MT] Skybox RT  : resolution 0x0	VRAM 0.00 Mb
+[MT] LFSkybox RT: resolution 0x0	VRAM 0.00 Mb
+[MT] GUI RT     : resolution 0x0	VRAM 0.00 Mb
+[MT] Total VRAM 75.14 Mb
+[MT] SceneRenderer VRAM stats
+[MT] Main window: resolution 1920x1080	MSAA 0
+[MT] Screen buf : resolution 1920x1080	VRAM 15.82 Mb
+[MT] Mono RT    : resolution 1920x1080	VRAM 59.32 Mb
+[MT] Stereo RT  : resolution 0x0	VRAM 0.00 Mb
+[MT] Skybox RT  : resolution 0x0	VRAM 0.00 Mb
+[MT] LFSkybox RT: resolution 0x0	VRAM 0.00 Mb
+[MT] GUI RT     : resolution 0x0	VRAM 0.00 Mb
+[MT] Total VRAM 75.14 Mb
+[MT] Initializing impostor storage
+[MT] ImpostorStorage VRAM stats
+[MT] Main window: resolution 1920x1080	Envmap MSAA 0
+[MT] FBO        : resolution 768x432	count 1	VRAM 5.06 Mb
+[MT] Impostors  : resolution 639x639	count 2	VRAM 49.42 Mb
+[MT] Skybox     : resolution 1920x1920	count 2	VRAM 675.00 Mb
+[MT] Envmap     : resolution 512x512	count 2	VRAM 70.09 Mb
+[MT] Total VRAM 803.59 Mb
+[MT] Initializing terrain texture cache
+[MT] Available VRAM: 2716.90 Mb
+[MT] Capacity limit: 62.5% (2351.88 Mb)
+[MT] Terrain texture array:  Bump      Format R16      Capacity 1280  VRAM 215.828 Mb
+[MT] Terrain texture array:  Norm      Format RG8      Capacity 1280  VRAM 215.828 Mb
+[MT] Terrain texture array:  Diff      Format RGBA8    Capacity 1280  VRAM 429.160 Mb
+[MT] Terrain texture array:  DetNorm   Format RGBA8    Capacity 1280  VRAM 429.160 Mb
+[MT] Terrain texture array:  DetDiff   Format RGBA8    Capacity 1280  VRAM 429.160 Mb
+[MT] Terrain texture array:  Temp      Format R16      Capacity 1280  VRAM 215.828 Mb
+[MT] Terrain texture array:  Glow      Format RGBA8    Capacity 1280  VRAM 429.160 Mb
+[MT] Terrain texture arrays total VRAM 2364.124 Mb
+DONE
+
+RUNNING ENGINE
+
+...................
+
+[MT] Detecting free RAM/VRAM after engine loading...
+[MT] Static used  RAM: 69 Mb
+[MT] Unaccounted  RAM: 0 Mb
+[MT] Available    RAM: 7959 Mb
+[MT] Static used VRAM: 3480 Mb
+[MT] Unaccounted VRAM: 0 Mb
+[MT] Available   VRAM: 352 Mb
+[MT] Dynamic detection: DISABLED
+[MT] Loading  sound "data/music/AstroPilot - A Drowning (SE Edit).ogg"
+[00] Loading  image "data/textures/galaxies/GalaxiesTex.pak/MilkyWay_small.png"
+[01] Loading  image "data/textures/galaxies/GalaxiesTex.pak/MilkyWay.png"
+[03] Loading  model "data/models/atmospheres/Atmospheres.pak/Sun.atm"
+[03] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_THERMAL.bin"
+[MT] Loading script "data/scripts/Scripts.pak/menu/Scene1.se"
+[MT] Creating planetary system of star "Menu Star", seed = 1075056684
+[MT] 4 objects found in catalog
+[MT] Initializing planetary system of star "Menu Star"
+[MT] Loading custom model "Skylias Stellar Nursery"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/nebula_raymarch_BOUNDARY_BOX_UNIFORMS_nebula_raymarch_uniforms.bin"
+[MT] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/nebula_raymarch_BOUNDARY_BOX_UNIFORMS_nebula_raymarch_uniforms_DUAL_BLEND.bin"
+[00] Creating subsystems of galaxy "Sag dSph", seed = -24216248
+[04] Loading  model "data/models/atmospheres/Atmospheres.pak/Jupiter.atm"
+[02] Loading  model "data/models/atmospheres/Atmospheres.pak/Neptune.atm"
+[05] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_ECLIPSE_THERMAL.bin"
+[01] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ATMOSPHERE_THERMAL.bin"
+[00] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_THERMAL.bin"
+[01] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_THERMAL.bin"
+[03] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_ECLIPSE_THERMAL.bin"
+[02] Loading  image "data/textures/flares/Flares.pak/Duality.png"
+[03] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/sky_RINGS_ECLIPSE.bin"
+[04] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/sky_ECLIPSE.bin"
+[05] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_ATMOSPHERE_THERMAL.bin"
+[00] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_ATMOSPHERE_THERMAL.bin"
+[05] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAICE_ATMOSPHERE_ECLIPSE_THERMAL.bin"
+[01] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHACLOUDS_ATMOSPHERE_ECLIPSE_THERMAL.bin"
+[MT] Entering single player
+[MT] Loading  sound "data/music/A.e.r.o. - Flying Through The Universe.ogg"
+[MT] Loading  sound "data/music/Rhythm of Mankind & Nature - Two Invisible Worlds.ogg"
+[03] Loading script "data/models/spacecraft/ShipsModels.pak/default/Shuttle.cfg"
+[03] Loading script "data/models/spacecraft/ShipsModels.pak/default/Shuttle.cfg"
+[MT] Loading planetarium (1): Initializing user position: from config file
+[03] Loading  model "data/models/spacecraft/ShipsModels.pak/default/Shuttle.sm"
+[MT] Loading script "config/save-user.cfg"
+[MT] Loading planetarium (2): Loading nearby galaxies
+[MT] Loading  model "cache/models/galaxies/LMC.gm"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex.pak/LMC_sys.jpg"
+[03] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_ECLIPSE.bin"
+[MT] Loading planetarium (3): Loading spacecraft
+[02] Loading  image "data/textures/spacecraft/ShipsTex.pak/default/Detail-noise.png"
+[04] Loading  image "data/textures/spacecraft/ShipsTex.pak/default/Shuttle-diff.dds"
+[04] Loading  image "data/textures/spacecraft/ShipsTex.pak/default/Shuttle-bump.png"
+[03] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_DETNORMAL_ECLIPSE.bin"
+[MT] Loading planetarium (6): Preloading startup scene
+[MT] Loading planetarium (7): Aborting loading screen
+[00] Loading  image "data/textures/galaxies/GalaxiesTex.pak/LMC_small.png"
+[01] Loading  image "data/textures/galaxies/GalaxiesTex.pak/LMC.png"
+[00] Loading script "addons/models/spacecraft/addons/cable/Cable.cfg"
+[00] Loading script "addons/models/spacecraft/addons/cable/Cable.cfg"
+[00] Loading  model "addons/models/spacecraft/addons/cable/Cable.sm"
+[00] Loading  model "data/models/atmospheres/Atmospheres.pak/Earth.atm"
+[00] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_EMISSIVE.bin"
+[00] Loading  image "data/textures/galaxies/GalaxiesTex.pak/M33_small.png"
+[01] Loading  image "data/textures/galaxies/GalaxiesTex.pak/M31_small.png"
+[02] Loading  image "addons/textures/spacecraft/gray.png"
+[02] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_ATMOSPHERE_EMISSIVE.bin"
+[00] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_ECLIPSE_ENVMAP.bin"
+[00] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_SPECULAR_ECLIPSE_ENVMAP.bin"
+[00] Loading script "addons/models/spacecraft/addons/Halo/Halo_Ring.cfg"
+[00] Loading  model "#/models/addons/Halo/Halo_Ring.obj"
+[00] ERROR: seMesh::LoadOBJ(): Error opening the file "#/models/addons/Halo/Halo_Ring.obj"
+[00] No new materials, materials library has not been created
+[00] Loading  image "data/textures/galaxies/GalaxiesTex.pak/SMC_small.png"
+[00] Loading  image "data/textures/galaxies/GalaxiesTex.pak/SMC.png"
+[MT] Loading  sound "data/music/Lombus - Hydrogen Sonata.ogg"
+[02] Loading  model "cache/models/nebulae/Pleiades.nm"
+[00] Loading  model "cache/models/nebulae/BarnardsLoop.nm"
+[01] Loading  model "cache/models/nebulae/california.nm"
+[03] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/ship_SPECULAR_ENVMAP.bin"
+[00] Loading  image "data/textures/galaxies/GalaxiesTex.pak/M31.png"
+[00] Loading  model "cache/models/nebulae/north.nm"
+[MT] Loading  sound "data/music/AstroPilot - Earth's Moon (Extended Version).ogg"
+[MT] Creating planetary system of star "HIP 56721/HD 101080", seed = 569217517
+[MT] Creating planetary system of star "HIP 57827/HD 103014", seed = -1121617005
+[01] Creating galaxy model "cache/models/galaxies/SBc.gm"
+[01] Loading script "data/models/galaxies/Galaxies-sprite.pak/Kexitt.cfg"
+[01] Loading  image "data/textures/galaxies/GalaxiesTex.pak/SBc.png"
+[01] Loading  image "data/textures/galaxies/GalaxiesTex.pak/Side1.png"
+[01] Saving   model "cache/models/galaxies/SBc.gm"
+[01] Loading  image "data/textures/galaxies/GalaxiesTex.pak/SBc_sys.jpg"
+[00] Creating subsystems of galaxy "IC 1101", seed = 578670858
+[00] WARNING: seGalSysModel::Build(): GOCT_MAX_DEPTH exceeded (9 > 6)
+[00] Creating planetary system of star "RSC 10416-4041-0-0-0", seed = 1282463232
+[MT] Initializing planetary system of star "RSC 10416-4041-0-0-0"
+[MT] Loading  sound "data/music/Lokijar - Black Hole.ogg"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Shuttle.sss"
+[MT] Saving  script "config/spacecraft.cfg"
+[MT] Loading  sound "data/music/Lombus - Hydrogen Sonata.ogg"
+[MT] Loading  sound "data/music/AstroPilot - A Drowning (SE Edit).ogg"
+[MT] Loading  sound "data/music/Lombus - Hydrogen Sonata.ogg"
+[MT] Loading script "data/models/spacecraft/ShipsModels.pak/default/Shuttle.sss"
+[MT] Saving  script "config/spacecraft.cfg"
+[MT] Loading  sound "data/music/A.e.r.o. - Flying Through The Universe.ogg"
+[MT] Loading  sound "data/music/Rhythm of Mankind & Nature - Two Invisible Worlds.ogg"
+[MT] Loading  sound "data/music/AstroPilot - Earth's Moon (Extended Version).ogg"
+[MT] Loading  sound "data/music/Lokijar - Silence In The Solar System.ogg"
+[MT] Loading  sound "data/music/Water Drips - Auroras.ogg"
+[MT] Loading  sound "data/music/AstroPilot - Gravity Free.ogg"
+[MT] Loading  sound "data/music/Slambeatz - Waterplanet.ogg"
+[MT] Loading  sound "data/music/Greg Zemskov - Saturn.ogg"
+[MT] Loading  sound "data/music/Lombus - Hydrogen Sonata.ogg"
+[MT] Loading  sound "data/music/Lokijar - Quasar Medusa.ogg"
+[MT] Loading  sound "data/music/Lokijar - SE Subtitle.ogg"
+[MT] Loading  sound "data/music/A.e.r.o. - Sirius.ogg"
+[MT] Loading  sound "data/music/Adrian Chifu - Eternal Traveler.ogg"
+[MT] Loading  sound "data/music/Inferno - Blips.ogg"
+[MT] Loading  sound "data/music/A.e.r.o. - Little Space Travel.ogg"
+[MT] Loading  sound "data/music/Ujo - Comet.ogg"
+[MT] Loading  sound "data/music/Akira - The Blithering Heights (fm mix).ogg"
+[MT] Loading  sound "data/music/Water Drips - The Other Side Of The Black Hole.ogg"
+[MT] Loading  sound "data/music/AstroPilot - Night Meeting (Verges Of Time).ogg"
+[MT] Loading  sound "data/music/A.e.r.o. - Kepler-186F.ogg"
+[MT] Loading  sound "data/music/Art Project & A.e.r.o. - A Walk In The Woods.ogg"
+[MT] Loading  sound "data/music/Ashterra - The Moon.ogg"
+[MT] Loading script "data/scripts/Scripts.pak/menu/Scene1.se"
+[MT] Loading  sound "data/music/AstroPilot - A Drowning (SE Edit).ogg"
+[MT] Entering planetarium
+[MT] Loading  sound "data/music/A.e.r.o. - The Sloan Great Wall.ogg"
+[05] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/planet_ALPHAWATER_ATMOSPHERE_ECLIPSE_EMISSIVE.bin"
+[00] Loading shader "cache/shaders/NVidia_GeForce_GTX_960M_4.6.0_NVIDIA_425.31_46_460_Win64_10.0.17134/water_ECLIPSE_ATMOSPHERE.bin"
+[MT] Loading planetarium (1): Initializing user position: from config file
+[MT] Loading script "config/save-user.cfg"
+[MT] Loading planetarium (2): Loading nearby galaxies
+[MT] Loading planetarium (3): Loading spacecraft
+[MT] Loading planetarium (6): Preloading startup scene
+[MT] Loading planetarium (7): Aborting loading screen
+[MT] Loading script "data/scripts/Scripts.pak/menu/Scene1.se"
+[MT] Loading  sound "data/music/AstroPilot - A Drowning (SE Edit).ogg"
+[MT] Loading  sound "data/music/Lokijar - Omega.ogg"
+[MT] Loading script "data/scripts/Scripts.pak/menu/Scene1.se"
+[MT] Loading  sound "data/music/AstroPilot - A Drowning (SE Edit).ogg"
+[00] Loading  model "cache/models/nebulae/carina.nm"
+[00] Creating nebula model "cache/models/nebulae/rhooph.nm"
+[00] Loading script "data/models/nebulae/Bambusdude.cfg"
+[00] Loading  image "data/textures/nebulae/NebulaeTex.pak/Ophx.png"
+[00] Loading  image "data/textures/nebulae/NebulaeTex.pak/Ophx.png"
+[00] Loading  image "data/textures/nebulae/NebulaeTex.pak/ophy.png"
+[00] Loading  image "data/textures/nebulae/NebulaeTex.pak/ophy.png"
+[00] Loading  image "data/textures/nebulae/NebulaeTex.pak/Ophz.png"
+[01] Creating nebula model "cache/models/nebulae/M42.nm"
+[02] Loading  model "cache/models/nebulae/IC434.nm"
+[01] Loading script "data/models/nebulae/Nebulae-sprite.pak/Astroniki.cfg"
+[00] Loading  image "data/textures/nebulae/NebulaeTex.pak/Ophz.png"
+[01] Loading  image "data/textures/nebulae/NebulaeTex.pak/M42_posx.png"
+[01] Loading  image "data/textures/nebulae/NebulaeTex.pak/M42_posx.png"
+[01] Loading  image "data/textures/nebulae/NebulaeTex.pak/M42_posy.png"
+[01] Loading  image "data/textures/nebulae/NebulaeTex.pak/M42_posy.png"
+[01] Loading  image "data/textures/nebulae/NebulaeTex.pak/M42_posz.png"
+[01] Loading  image "data/textures/nebulae/NebulaeTex.pak/M42_posz.png"
+[00] Saving   model "cache/models/nebulae/rhooph.nm"
+[01] Saving   model "cache/models/nebulae/M42.nm"
+[MT] Saving  script "config/save-user.cfg"
+[MT] Loading  sound "data/music/enzo2090 - Planet Walk.ogg"
+
+...................
+
+SAVING USER
+[MT] Saving  script "config/keys.cfg"
+[MT] Saving  script "config/save-user.cfg"
+[MT] Saving  script "config/main-user.cfg"
+[MT] Saving  script "config/spacecraft.cfg"
+DONE
+
+FINISHING WORKER THREADS
+[MT] Stopping music player thread
+[00] Stopping worker thread 00
+[01] Stopping worker thread 01
+[02] Stopping worker thread 02
+[03] Stopping worker thread 03
+[04] Stopping worker thread 04
+[05] Stopping worker thread 05
+[MT] Waiting for worker threads
+DONE
+
+DESTROYING UNIVERSE
+[MT] Destroying planets
+[MT] Destroying stars
+[MT] Destroying nebulae
+[MT] Destroying clusters
+[MT] Destroying galaxies
+[MT] Destroying models
+[MT] Destroying textures
+[MT] Destroying atmospheres
+[MT] Destroying terrain texture cache
+DONE
+
+DESTROYING ENGINE
+[MT] Destroying OpenAL context
+[MT] Destroying OpenGL context
+[MT] Destroying window
+DONE
+
+FINISHED

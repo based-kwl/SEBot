@@ -1,0 +1,712 @@
+SpaceEngine Version 0.9.8.0 beta
+
+STARTING
+[MT] Scanning data directories
+[MT] Data directory "data"
+[MT] Data directory "addons"
+[MT] Loading script "config/main-def.cfg"
+[MT] Loading script "config/main-user.cfg"
+[MT] Loading  image "data/textures/common/splash07.jpg"
+[MT] 20 localizations found
+DONE
+
+INITIALIZING OPENGL
+[MT] Vendor:   Intel
+[MT] Renderer: Intel(R) Iris(R) Plus Graphics
+[MT] Driver version: 30.0.101.1191
+[MT] OpenGL version: 4.6.0 - Build 30.0.101.1191
+[MT] GLSL   version: 4.60 - Build 30.0.101.1191
+[MT] Extensions: GL_3DFX_texture_compression_FXT1 GL_AMD_depth_clamp_separate GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_cl_event GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_robustness_isolation GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_bit_encoding GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_separate_stencil GL_EXT_abgr GL_EXT_bgra GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_clip_volume_hint GL_EXT_compiled_vertex_array GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_object GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_memory_object GL_EXT_memory_object_win32 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_polygon_offset_clamp GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_semaphore GL_EXT_semaphore_win32 GL_EXT_separate_specular_color GL_EXT_shader_framebuffer_fetch GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_compression_s3tc GL_EXT_texture_edge_clamp GL_EXT_texture_env_add GL_EXT_texture_env_combine GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod_bias GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_IBM_texture_mirrored_repeat GL_INTEL_coarse_fragment_shader GL_INTEL_conservative_rasterization GL_INTEL_fragment_shader_ordering GL_INTEL_framebuffer_CMAA GL_INTEL_map_texture GL_INTEL_multi_rate_fragment_shader GL_INTEL_performance_query GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_shader_subgroup GL_KHR_shader_subgroup_arithmetic GL_KHR_shader_subgroup_ballot GL_KHR_shader_subgroup_basic GL_KHR_shader_subgroup_clustered GL_KHR_shader_subgroup_quad GL_KHR_shader_subgroup_shuffle GL_KHR_shader_subgroup_shuffle_relative GL_KHR_shader_subgroup_vote GL_KHR_texture_compression_astc_ldr GL_NV_blend_square GL_NV_conditional_render GL_NV_primitive_restart GL_NV_texgen_reflection GL_SGIS_generate_mipmap GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod GL_SUN_multi_draw_arrays GL_WIN_swap_hint WGL_EXT_swap_control 
+[MT] Floating-point pixel format: GL_RGBA16F_ARB
+[MT] Debug output supported
+[MT] Reverse float depth buffer supported (via GL_ARB_clip_control)
+[MT] Half float supported
+[MT] 3D textures supported
+[MT] Swap control tear not supported
+[MT] Stereoscopic draw buffers not supported
+[MT] Direct state access not supported
+[MT] Binary shader program supported
+[MT] Sync objects IGNORED
+[MT] Max texture image units: 32
+[MT] Max vertex texture image units: 32
+[MT] Max combined texture image units: 192
+[MT] Max texture size: 16384
+[MT] Max rectangle texture size: 16384
+[MT] Max cubemap texture size: 16384
+[MT] Max 3D texture size: 2048
+[MT] Max viewport size: 16384 x 16384
+[MT] Max anisotropy: 16
+[MT] Max multisamples: 16
+[MT] Multisampling supported
+[MT] Draw buffers: 8
+[MT] Saving  script "config/main-user.cfg"
+DONE
+
+INITIALIZING OPENAL
+[MT] Vendor:   Creative Labs Inc.
+[MT] Renderer: Software
+[MT] OpenAL Version: OpenAL 1.0
+[MT] OpenAL Extentions: EAX 2.0, EAX 3.0, EAX Unified, and EAX-AC3
+[MT] ALC Default device specifier: DirectSound3D
+[MT] ALC Device specifier: DirectSound
+[MT] ALC Extensions: 
+[MT] Loading default sounds
+[MT] Loading  sound "data/sounds/button.ogg"
+[MT] Loading  sound "data/sounds/menu.ogg"
+[MT] Loading  sound "data/sounds/rocket_engine.ogg"
+[MT] Loading  sound "data/sounds/rocket_engine_2.ogg"
+DONE
+
+INITIALIZING LOADER
+[MT] Number of CPUs: 8
+[MT] Worker threads: 7
+[MT] RAM granularty: 4 kb
+[MT] Total      RAM: 4095 Mb
+[MT] Available  RAM: 3800 Mb
+[MT] Physical  VRAM: UNSUPPORTED
+[MT] Available VRAM: UNSUPPORTED
+[MT] Max. used VRAM: 1536 Mb
+[MT] Scanning pak files
+[MT] Loading "data/catalogs/Catalogs0980.pak":	5 folders, 40 files
+[MT] Loading "data/locale/Fonts.pak":	0 folders, 8 files
+[MT] Loading "data/models/atmospheres/Atmospheres0980.pak":	0 folders, 11 files
+[MT] Loading "data/models/galaxies/GalaxiesModels0980.pak":	0 folders, 1 files
+[MT] Loading "data/models/nebulae/NebulaeModels0980.pak":	0 folders, 4 files
+[MT] Loading "data/models/spacecraft/ShipsModels0980.pak":	2 folders, 119 files
+[MT] Loading "data/shaders/Shaders0980.pak":	0 folders, 101 files
+[MT] Loading "data/textures/common/CommonTex0980.pak":	0 folders, 25 files
+[MT] Loading "data/textures/flares/FlaresTex0980.pak":	0 folders, 41 files
+[MT] Loading "data/textures/galaxies/GalaxiesTex0980.pak":	0 folders, 171 files
+[MT] Loading "data/textures/nebulae/NebulaeTex0980.pak":	0 folders, 170 files
+[MT] Loading "data/textures/planets/PlanetsTex0980.pak":	408 folders, 34217 files
+[MT] Loading "data/textures/spacecraft/ShipsTex0980.pak":	3 folders, 35 files
+[MT] Total: 34943 files in 13 paks
+[MT] Initializing the filesystem data
+DONE
+
+INITIALIZING OCULUS RIFT
+[MT] Oculus Rift HMD not found, or Oculus Runtime version is not 0.8
+DONE
+
+INITIALIZING ENGINE
+[MT] Loading  shader "data/shaders/Shaders0980.pak/hdr_down.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/hdr_gauss_blur.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/hdr_tone.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/hdr_tone.glsl" (defines: LUMA)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/hdr_tone.glsl" (defines: ALPHA)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/hdr_add_bloom.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/hdr_add_bloom.glsl" (defines: REVERSE)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/hdr_add_bloom.glsl" (defines: DITHERING)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/hdr_add_bloom.glsl" (defines: DITHERING, REVERSE)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/proj_fisheye.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/proj_fisheye_gui.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/proj_cylinder.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/3D_interlace.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/3D_interlace.glsl" (defines: HOR)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/3D_anaglyph.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/hdr_copy.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/hdr_copy_cube.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/fxaa.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/fxaa_lum.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/prim_fill_obj.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/prim_fill_obj.glsl" (defines: UNIFORM_VERTEXES)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/prim_tex_obj.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/prim_tex_obj.glsl" (defines: CUBEMAP)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/prim_tex_obj.glsl" (defines: TEXCOORD)
+[MT] Initializing galaxies models cache
+[MT] Loading script "data/models/galaxies/GalaxiesModels0980.pak/Default.cfg"
+[MT] Initializing nebulae models cache
+[MT] Loading script "data/models/nebulae/NebulaeModels0980.pak/Astroniki.cfg"
+[MT] Loading script "data/models/nebulae/NebulaeModels0980.pak/Bambusman.cfg"
+[MT] Loading script "data/models/nebulae/NebulaeModels0980.pak/Default.cfg"
+[MT] Loading script "data/models/nebulae/NebulaeModels0980.pak/Voekoevaka.cfg"
+[MT] Loading script "data/models/atmospheres/Atmospheres0980.pak/atmospheres.cfg"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/atmo_transm.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/blackhole.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/blackhole.glsl" (defines: ENV_MAP)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/blackhole.glsl" (defines: ACCR_DISK)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/blackhole.glsl" (defines: ACCR_DISK,ENV_MAP)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/blackhole.glsl" (defines: STAR)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/blackhole.glsl" (defines: STAR,ENV_MAP)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/blackhole.glsl" (defines: STAR,ACCR_DISK)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/blackhole.glsl" (defines: STAR,ACCR_DISK,ENV_MAP)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/blackhole.glsl" (defines: WORMHOLE)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/blackhole.glsl" (defines: WORMHOLE,ENV_MAP)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_warp.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_warp.glsl" (defines: ENV_MAP)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/get_pixel.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/get_pixel.glsl" (defines: MSAA)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/sun_flare_mark.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/sun_flare_conv.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/sun_flare_ghost.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/sun_flare_ghost.glsl" (defines: MODULATE)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_glow.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_norm.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_packed_norm.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/bump_to_normal.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/bump_to_packed_normal.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_spiral_galaxy.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_sun_height.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_sun_height.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_sun_color.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_sun_color.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_sun_glow.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_sun_glow.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_terra_height.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_terra_height.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_terra_color.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_terra_color.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_terra_glow.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_terra_glow.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_selena_height.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_selena_height.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_selena_color.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_selena_color.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_selena_glow.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_selena_glow.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_asteroid_height.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_asteroid_height.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_asteroid_color.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_asteroid_color.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_asteroid_glow.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_asteroid_glow.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_clouds_height.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_clouds_height.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_clouds_color.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_clouds_color.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_clouds_glow.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_clouds_glow.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_gasgiant_height.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_gasgiant_height.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_gasgiant_color.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_gasgiant_color.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_gasgiant_glow.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_gasgiant_glow.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_browndwarf_height.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_browndwarf_height.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_browndwarf_color.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_browndwarf_color.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/tg_browndwarf_glow.glsl"
+[MT] Saving   shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/tg_browndwarf_glow.bin"
+[MT] Procedural generator shaders loaded in 13467.424 ms
+[MT] Loading  image "data/textures/common/CommonTex0980.pak/planet_atlas.png"
+[MT] Loading script "data/textures/common/CommonTex0980.pak/atlas.cfg"
+[MT] Loading script "data/textures/common/CommonTex0980.pak/palette.cfg"
+[MT] Loading  image "data/textures/common/CommonTex0980.pak/notex.png"
+[MT] Loading script "data/locale/Fonts.pak/win1252.cfg"
+[MT] Loading script "data/textures/common/CommonTex0980.pak/Modern SpaceEngine skin.cfg"
+[MT] Loading  image "data/locale/Fonts.pak/win1252-font.png"
+[MT] Loading  image "data/locale/eng-menu.png"
+[MT] Loading  image "data/textures/common/CommonTex0980.pak/interface_mod.png"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/gui.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/gui_3d.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/billboard.glsl"
+[MT] Loading  image "config/exitscreen.jpg"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/sky_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/rings_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_atm_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_ice_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_ice_atm_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_water_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_water_atm_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_atm_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_sun_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_atm_sun_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_atm_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/sky_sun_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_atm_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_ice_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_ice_atm_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_water_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_water_atm_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_atm_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_sun_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_atm_sun_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_atm_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/sky_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/sky_sun_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/rings_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_atm_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_ice_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_ice_atm_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_water_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_water_atm_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_atm_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_sun_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_atm_sun_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_atm_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/sky_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/sky_sun_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/rings_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_atm_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_ice_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_ice_atm_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_water_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_water_atm_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_atm_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_sun_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_atm_sun_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_atm_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/sky_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/sky_sun_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/rings_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_atm_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_ice_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_ice_atm_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_water_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_water_atm_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_atm_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_sun_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_atm_sun_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_atm_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/sky_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/sky_sun_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/rings_light4.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/spacecraft_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/spacecraft_diff_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/spacecraft_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/spacecraft_diff_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/spacecraft_bump_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/spacecraft_diff_bump_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/spacecraft_diff_asp_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/spacecraft_diff_asp_bump_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/spacecraft_diff_spec_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/spacecraft_diff_bump_spec_light1.bin"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/particle.glsl"
+DONE
+
+LOADING GALAXIES
+[MT] Loading galaxy bulge texture
+[MT] Loading  image "data/textures/common/CommonTex0980.pak/sprites_gal.png"
+[MT] Loading  image "data/textures/common/CommonTex0980.pak/sprites_neb.png"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/galaxy_point.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/galaxy_sprite.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/galaxy_sprite_blur.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/galaxy_map_point.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/galaxy_map_line.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/galaxy_map_mark.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/galaxy_plane.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/galaxy_plane_map.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/galaxy_bulge.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/galaxy_bulge_map.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/galaxy_model.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/galaxy_model_map.glsl"
+[MT] Loading galaxies catalogs
+[MT] Loading csv file "data/catalogs/Catalogs0980.pak/galaxies/NGC-IC.csv"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/galaxies/BlackholeHosts.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/galaxies/LocalGroup.sc"
+[MT] Merging duplicate galaxies
+[MT] Building galaxies octree
+[MT] csv cat galaxies: 10896
+[MT] sc  cat galaxies: 64
+[MT] sc  del galaxies: 0
+[MT] Merged  galaxies: 1
+[MT] Deleted galaxies: 0
+[MT] Failed  galaxies: 0
+[MT] Final   galaxies: 10959
+DONE
+
+LOADING CLUSTERS
+[MT] Loading clusters catalogs
+[MT] Loading script "data/catalogs/Catalogs0980.pak/clusters/clusters-extra.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/clusters/clusters-globular.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/clusters/clusters-open.sc"
+[MT] Merging duplicate clusters
+[MT] sc  cat clusters: 1266
+[MT] sc  del clusters: 0
+[MT] Merged  clusters: 0
+[MT] Deleted clusters: 0
+[MT] Failed  clusters: 0
+[MT] Final   clusters: 1266
+DONE
+
+LOADING NEBULAE
+[MT] Loading nebulae catalogs
+[MT] Loading script "data/catalogs/Catalogs0980.pak/nebulae/nebulae-extra.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/nebulae/nebulae.sc"
+[MT] Loading nebulae catalogs
+[MT] Merging duplicate nebulae
+[MT] sc  cat nebulae: 157
+[MT] sc  del nebulae: 0
+[MT] Merged  nebulae: 0
+[MT] Deleted nebulae: 0
+[MT] Failed  nebulae: 0
+[MT] Final   nebulae: 157
+DONE
+
+LOADING PLANETS
+[MT] Loading  shader "data/shaders/Shaders0980.pak/corona_plane_tex.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/corona_plane_proc.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/comet_tail.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/aurora.glsl" (defines: TEX_NOISE)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/aurora.glsl" (defines: DETAIL)
+[MT] Loading planets catalogs
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/Asteroids-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/Asteroids-small.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/Asteroids.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/BlackHoles.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/BrownDwarfs-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/Comets.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/ExoPlanets-custom.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/ExoPlanets-unconfirmed.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/ExoPlanets.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/ExoPlanetsSuns-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/KuiperBelt-small.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/KuiperBelt.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/Moons-small.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/NeutronStars-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/NeutronStars-custom.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/NeutronStars.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/SolarSys.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/Stars-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/planets/WhiteDwarfs-bin.sc"
+[MT] Merging duplicate planets
+[MT] sc  cat planets: 12038
+[MT] sc  del planets: 0
+[MT] Merged  planets: 1
+[MT] Deleted planets: 0
+[MT] Failed  planets: 0
+[MT] Final   planets: 12037
+DONE
+
+LOADING STARS
+[MT] Loading  shader "data/shaders/Shaders0980.pak/star_point.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/star_sprite.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/star_sprite_blur.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/star_map_point.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/star_map_line.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/star_map_mark.glsl"
+[MT] Loading star catalogs
+[MT] Loading csv file "data/catalogs/Catalogs0980.pak/stars/HIPPARCOS.csv"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/stars/BlackHoles.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/stars/BrownDwarfs-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/stars/BrownDwarfs.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/stars/ExoPlanetsSuns-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/stars/ExoPlanetsSuns.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/stars/NeutronStars-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/stars/NeutronStars-custom.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/stars/NeutronStars.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/stars/Stars-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/stars/Stars.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/stars/WhiteDwarfs-bin.sc"
+[MT] Loading script "data/catalogs/Catalogs0980.pak/stars/WhiteDwarfs.sc"
+[MT] Merging duplicate stars
+[MT] Building stars octree
+[MT] bin cat stars: 0
+[MT] csv cat stars: 112523
+[MT] sc  cat stars: 14382
+[MT] sc  del stars: 607
+[MT] Merged  stars: 928
+[MT] Deleted stars: 220
+[MT] Failed  stars: 0
+[MT] Final   stars: 125757
+[MT] Central stars: 56
+DONE
+
+LOADING SPACECRAFT
+[MT] Loading script "config/spacecraft.cfg"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/Skylone.sss"
+[MT] Loading materials
+[MT] Loading script "data/textures/spacecraft/ShipsTex0980.pak/default/AmS.sml"
+[MT] Loading script "data/textures/spacecraft/ShipsTex0980.pak/default/Dragonfly/fire_dragonfly.sml"
+[MT] Loading script "data/textures/spacecraft/ShipsTex0980.pak/default/Shuttle.sml"
+[MT] Loading script "data/textures/spacecraft/ShipsTex0980.pak/default/Skylone.sml"
+[MT] Loading script "data/textures/spacecraft/ShipsTex0980.pak/modules/SHW.sml"
+[MT] Loading aero models
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_FUSION)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_ION)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_AEROSPIKE)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_ION2)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_SQUARE)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_CHEMICAL)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_CUSTOM01)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_CUSTOM02)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_CUSTOM03)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_CUSTOM04)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_CUSTOM05)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_CUSTOM06)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_CUSTOM07)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_CUSTOM08)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_CUSTOM09)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/ship_engines.glsl" (defines: TYPE_CUSTOM10)
+DONE
+
+BUILDING DATABASE
+[MT] Loading local database
+[MT] Loading script "data/locale/eng-db.cfg"
+DONE
+
+INITIALIZING CLUSTERS
+[MT] Initializing catalog clusters parameters
+DONE
+
+INITIALIZING NEBULAE
+[MT] Loading  shader "data/shaders/Shaders0980.pak/nebula_model.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/nebula_model_map.glsl"
+[MT] Initializing catalog nebulae parameters
+DONE
+
+INITIALIZING GALAXIES
+[MT] Creating subsystems of galaxy "Andromeda"
+[MT] Loading  model "cache/models/galaxies/M31.gm"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/M31_small.png"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/M31_sys.jpg"
+[MT] Creating subsystems of galaxy "Triangulum"
+[MT] Loading  model "cache/models/galaxies/M33.gm"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/M33_small.png"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/M33_sys.jpg"
+[MT] Creating subsystems of galaxy "Milky Way"
+[MT] Loading  model "cache/models/galaxies/MilkyWay.gm"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/MilkyWay_small.png"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/MilkyWay_sys.jpg"
+[MT] Creating subsystems of galaxy "Small Magellanic Cloud"
+[MT] Loading  model "cache/models/galaxies/SMC.gm"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/SMC_small.png"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/SMC_sys.jpg"
+DONE
+
+INITIALIZING PLANETS
+Initializing planets hierarchy
+Initializing catalog stars parameters
+DONE
+
+INITIALIZING STARS
+Initializing catalog stars parameters
+DONE
+
+INITIALIZING ENGINE
+[MT] Loading  shader "data/shaders/Shaders0980.pak/body_point.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/body_sprite.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/body_sprite_blur.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/body_point_u.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/body_sprite_u.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/body_sprite_blur_u.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/body_point_u.glsl" (defines: MODULATE)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/body_sprite_u.glsl" (defines: MODULATE)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/body_sprite_blur_u.glsl" (defines: MODULATE)
+[MT] Loading  shader "data/shaders/Shaders0980.pak/body_mark.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/orbit.glsl"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/orbit.glsl" (defines: MAP_MODE)
+[MT] Number of joysticks detected: 0
+[MT] Loading script "config/keys.cfg"
+[MT] Loading script "data/textures/flares/FlaresTex0980.pak/Anamorphic flares.cfg"
+[MT] Loading script "data/textures/flares/FlaresTex0980.pak/Anamorphic ghosts.cfg"
+[MT] Loading  shader "data/shaders/Shaders0980.pak/map_sphere.glsl"
+[MT] Loading script "config/places-def.cfg"
+[MT] Loading script "config/places-user.cfg"
+[MT] Loading script "config/journal.cfg"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/AmS-B.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/AmS-C.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/AmS-S.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/Asterisk.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/Barrel-1.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/Barrel-2.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/DoctorShip.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/DragonFly.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/Drone.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/Explorer-1.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/Explorer-2.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/FuelScoop.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/HarmonyIIb.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/HeavyCargo.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/JumpFreighter.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/JumpStarship.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/PlanCargo.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/PlanCruise.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/Probe.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/Shuttle.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/Skylone.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/TorpedoCarrier.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/Transport.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/Wayfarer.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/X-Wing.sss"
+[MT] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/Y-Wing.sss"
+[MT] Loading script "data/music/context.cfg"
+DONE
+
+STARTING WORKER THREADS
+[MT] Starting worker thread 00
+[00] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down.glsl"
+[00] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_glow.glsl"
+[00] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_norm.glsl"
+[00] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_packed_norm.glsl"
+[00] Loading  shader "data/shaders/Shaders0980.pak/bump_to_normal.glsl"
+[00] Loading  shader "data/shaders/Shaders0980.pak/bump_to_packed_normal.glsl"
+[00] Running worker thread 00
+[MT] Starting worker thread 01
+[01] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down.glsl"
+[01] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_glow.glsl"
+[01] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_norm.glsl"
+[01] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_packed_norm.glsl"
+[01] Loading  shader "data/shaders/Shaders0980.pak/bump_to_normal.glsl"
+[01] Loading  shader "data/shaders/Shaders0980.pak/bump_to_packed_normal.glsl"
+[01] Running worker thread 01
+[MT] Starting worker thread 02
+[02] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down.glsl"
+[02] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_glow.glsl"
+[02] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_norm.glsl"
+[02] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_packed_norm.glsl"
+[02] Loading  shader "data/shaders/Shaders0980.pak/bump_to_normal.glsl"
+[02] Loading  shader "data/shaders/Shaders0980.pak/bump_to_packed_normal.glsl"
+[02] Running worker thread 02
+[MT] Starting worker thread 03
+[03] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down.glsl"
+[03] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_glow.glsl"
+[03] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_norm.glsl"
+[03] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_packed_norm.glsl"
+[03] Loading  shader "data/shaders/Shaders0980.pak/bump_to_normal.glsl"
+[03] Loading  shader "data/shaders/Shaders0980.pak/bump_to_packed_normal.glsl"
+[03] Running worker thread 03
+[MT] Starting worker thread 04
+[04] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down.glsl"
+[04] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_glow.glsl"
+[04] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_norm.glsl"
+[04] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_packed_norm.glsl"
+[04] Loading  shader "data/shaders/Shaders0980.pak/bump_to_normal.glsl"
+[04] Loading  shader "data/shaders/Shaders0980.pak/bump_to_packed_normal.glsl"
+[04] Running worker thread 04
+[MT] Starting worker thread 05
+[05] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down.glsl"
+[05] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_glow.glsl"
+[05] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_norm.glsl"
+[05] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_packed_norm.glsl"
+[05] Loading  shader "data/shaders/Shaders0980.pak/bump_to_normal.glsl"
+[05] Loading  shader "data/shaders/Shaders0980.pak/bump_to_packed_normal.glsl"
+[05] Running worker thread 05
+[MT] Starting worker thread 06
+[06] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down.glsl"
+[06] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_glow.glsl"
+[06] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_norm.glsl"
+[06] Loading  shader "data/shaders/Shaders0980.pak/mipmap_down_packed_norm.glsl"
+[06] Loading  shader "data/shaders/Shaders0980.pak/bump_to_normal.glsl"
+[06] Loading  shader "data/shaders/Shaders0980.pak/bump_to_packed_normal.glsl"
+[06] Running worker thread 06
+[MT] Starting music player thread
+[MT] Running music player thread
+DONE
+
+RUNNING ENGINE
+
+...................
+
+[MT] Loading  sound "data/music/AstroPilot - Inverted Worlds.ogg"
+[MT] Entering planetarium
+[MT] Loading planetarium (0): Reading user position from config
+[MT] Loading script "config/save-user.cfg"
+[MT] Loading planetarium (1): Loading nearby galaxies
+[MT] Loading  model "cache/models/galaxies/LMC.gm"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/LMC_small.png"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/LMC_sys.jpg"
+[MT] Loading planetarium (2): Loading spacecraft
+[MT] Creating planetary system of star "RS 8474-918-7-65905-277"
+[06] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/MilkyWay.png"
+[MT] Loading planetarium (5): Preloading startup scene
+[00] Loading script "data/models/spacecraft/ShipsModels0980.pak/default/Skylone.cfg"
+[00] Loading  model "data/models/spacecraft/ShipsModels0980.pak/default/Skylone.sm"
+[00] Loading  image "data/textures/spacecraft/ShipsTex0980.pak/default/Detail-noise.png"
+[03] Loading  image "data/textures/spacecraft/ShipsTex0980.pak/default/Skylone-diff-spec.dds"
+[05] Loading  image "data/textures/spacecraft/ShipsTex0980.pak/default/Skylone-norm.dds"
+[MT] Initializing planetary system of star "RS 8474-918-7-65905-277"
+[01] Loading model "data/models/atmospheres/Atmospheres0980.pak/Jupiter.atm"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_glow_water_ecl_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_glow_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_ecl_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_ecl_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/spacecraft_diff_ecl_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/rings_ecl_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_glow_water_rings_ecl_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_rings_ecl_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_rings_ecl_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_glow_water_rings_atm_ecl_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_glow_atm_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/sky_rings_ecl_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_rings_atm_ecl_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_rings_atm_ecl_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/sky_rings_ecl_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_rings_atm_ecl_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_rings_atm_ecl_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/spacecraft_diff_asp_bump_dbump_ecl_light4.bin"
+[MT] Loading planetarium (6): Loading complete
+[MT] Loading  sound "data/music/AstroPilot - Gravity Free.ogg"
+[01] Loading  image "data/textures/flares/FlaresTex0980.pak/Anamorphic_lensspikes.png"
+[03] Loading  image "data/textures/flares/FlaresTex0980.pak/Anamorphic_ghosts.png"
+[00] Loading  image "data/textures/flares/FlaresTex0980.pak/Anamorphic_flare.png"
+[02] Loading  image "data/textures/flares/FlaresTex0980.pak/Anamorphic_diagonal.png"
+[00] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/LMC.png"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_glow_ecl_light4.bin"
+[00] Creating subsystems of galaxy "Large Magellanic Cloud"
+[MT] Loading  sound "data/music/A.e.r.o. - Kepler-186F.ogg"
+[00] Loading model "data/models/atmospheres/Atmospheres0980.pak/Sun.atm"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_glow_sun_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_glow_atm_sun_light1.bin"
+[MT] Saving  script "config/spacecraft.cfg"
+[00] Loading model "data/models/atmospheres/Atmospheres0980.pak/Venus.atm"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_ecl_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_rings_ecl_light3.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_rings_atm_ecl_light3.bin"
+[00] Loading  model "cache/models/nebulae/Carina.nm"
+[MT] Deleting galaxy model "M33"
+[04] Loading  model "cache/models/nebulae/crescent.nm"
+[MT] Deleting galaxy model "M31"
+[00] Creating subsystems of galaxy "Sag dSph"
+[MT] Loading  sound "data/music/AstroPilot - A Drowning (SE Edit).ogg"
+[00] Loading  model "cache/models/nebulae/wizard.nm"
+[00] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/SMC.png"
+[00] Loading  model "cache/models/galaxies/M33.gm"
+[00] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/M33_small.png"
+[00] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/M33_sys.jpg"
+[MT] Creating subsystems of galaxy "RG 0-0-0-0"
+[MT] Creating galaxy model "cache/models/galaxies/S01.gm"
+[MT] Loading script "data/models/galaxies/GalaxiesModels0980.pak/Default.cfg"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/S01_small.png"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/Sc_side.png"
+[MT] Saving   model "cache/models/galaxies/S01.gm"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/S01_small.png"
+[MT] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/S01_sys.jpg"
+[MT] Creating planetary system of star "RSC 0-0-0-0-6508-3-63-206"
+[MT] Initializing planetary system of star "RSC 0-0-0-0-6508-3-63-206"
+[02] Loading  image "data/textures/galaxies/GalaxiesTex0980.pak/S01.png"
+[00] Loading model "data/models/atmospheres/Atmospheres0980.pak/Neptune.atm"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_glow_atm_sun_light0.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_ecl_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_glow_water_ecl_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/rings_ecl_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_glow_water_rings_ecl_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_glow_water_rings_atm_ecl_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/sky_rings_ecl_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_glow_water_rings_atm_ecl_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_rings_atm_ecl_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/water_rings_atm_ecl_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_glow_transp_atm_light1.bin"
+[MT] Deleting atmosphere model "Venus"
+[MT] Deleting galaxy model "SMC"
+[MT] Deleting galaxy model "M33"
+[MT] Loading  sound "data/music/Pleiadian - Interstellar.ogg"
+[MT] Deleting galaxy model "LMC"
+[MT] Deleting atmosphere model "Jupiter"
+[MT] Deleting galaxy model "MilkyWay"
+[00] Loading model "data/models/atmospheres/Atmospheres0980.pak/Venus.atm"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_rings_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_rings_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/sky_rings_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_rings_atm_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_rings_atm_light1.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_rings_atm_light2.bin"
+[MT] Loading  shader "cache/shaders/Intel_30.0.101.1191_4.6.0_4.60/bin/planet_transp_rings_atm_light2.bin"
+[MT] Loading  sound "data/music/AstroPilot - Inverted Worlds.ogg"

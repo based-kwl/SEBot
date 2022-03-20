@@ -1,0 +1,75 @@
+Q1:Guess the object: https://cdn.discordapp.com/attachments/702232768935100516/702248674280996974/Screenshot_2020-04-21_at_23.02.57.png
+A:  M82, The Cigar Galaxy, Cigar Galaxy, Cigar
+U: Just stupid
+Total pts: 0
+
+Q1:Guess the object: https://cdn.discordapp.com/attachments/702232768935100516/702953246884626532/Screenshot_2020-04-23_at_21.44.50.png
+A:  Sagittarius, Sag
+U: Sagittarius
+Total pts: 1
+
+Q1:Guess the object: https://cdn.discordapp.com/attachments/702232768935100516/702951505627709520/Screenshot_2020-04-23_at_21.37.57.png
+A:  M1, Crab, Crab nebula
+U: Crab nebula
+Total pts: 2
+
+Q1:What major Messier object and planetary nebula resides between the stars Shelyak and Sulafat? (no hint)
+A:  M57, Ring Nebula
+U: 
+Total pts: 2
+
+Q1:What is the brightest observable quasar (in apparent magnitude)?
+A:  3C 273
+U: 
+Total pts: 2
+
+Q1:Which constellation is the object M13 in?
+A:  Hercules
+U: Hercules
+Total pts: 3
+
+Q1:What was the first star to be resolved as more than a point source other than the sun?
+A:  Betelgeuse, Alpha Ori, Alpha Orionis, KEK 9, kek 9
+U: 
+Total pts: 3
+
+Q1:What is the common name of NGC 7000
+A:  NA Nebula, North America Nebula
+U: 
+Total pts: 3
+
+Q1:What kind of object formed NGC 2359
+A: What is the type of the central star, wolf rayet star
+U: :/
+Total pts: 3
+
+Q1:What is the closest white dwarf to us?
+A:  Sirius B
+U: Sirius b
+Total pts: 4
+
+Q1:What type of barlow largely does not change its multiplier based on spacing?
+A:  Telecentric
+U: 
+Total pts: 4
+
+Q1:What type of primary mirror do Schmidt-Cassegrains use? (no hint)
+A:  Spherical
+U: 
+Total pts: 4
+
+Q1:What is the name of the parent company of Celestron and SkyWatcher?
+A:  Synta
+U: 
+Total pts: 4
+
+Q1:What’s the aperture of the largest amateur dobsonian ever made? (no hint)
+A: 70”,1.8m
+U: 70 inch
+Total pts: 5.0
+
+Q1:What is the name of the device purportedly sold by First Light Optics in the United Kingdom that claims to shoot down clouds using nucleation particles?
+A:  Zarkov Cloud Gun, Zarkov Gun
+U: Zurkon cloud gun
+Total pts: 5.0
+

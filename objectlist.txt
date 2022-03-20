@@ -1,0 +1,69 @@
+
+LMC IrregularGalaxy 0.9 660'x540', Large Magellanic Cloud
+NGC3372 EmissionNebula 1 120', Carina Nebula
+M45 OpenCluster 1.2 110', Pleiades
+IC2602 OpenCluster 1.9 50', Southern Pleiades
+SMC IrregularGalaxy 2.7 320'x305', Small Magellanic Cloud
+NGC3532 OpenCluster 3 50', Wishing Well Cluster
+M31 SpiralGalaxy 3.5 178'x63', Andromeda Galaxy
+NGC5139 GlobularCluster 3.9 36', Omega Centauri
+M42 EmissionNebula 4 66'x60', Orion Nebula
+NGC7000 EmissionNebula 4 120'x100', North America Nebula
+NGC104 GlobularCluster 4.1 31', 47 Tucanae
+NGC4755 OpenCluster 4.2 10', Jewel Box
+M6 OpenCluster 4.2 15', Butterfly Cluster
+M41 OpenCluster 4.5 38', Little Beehive
+IC2944 EmissionNebula 4.5 75', Running Chicken Nebula
+M22 GlobularCluster 5.1 24', Great Sagittarius Cluster
+NGC6188 EmissionNebula 5.2 20'x12', Dragons of Ara
+IC1396 EmissionNebula 5.6 180', Elephant's Trunk Nebula
+M33 SpiralGalaxy 5.7 62'x39', Triangulum Galaxy
+M13 GlobularCluster 5.8 17', Great Hercules Cluster
+M16 EmissionNebula 6 7', Eagle Nebula
+M8 EmissionNebula 6 90'x40', Lagoon Nebula
+IC405 EmissionNebula 6 37'10', Flaming Star Nebula
+NGC1499 EmissionNebula 6 150'x60', California Nebula
+M15 GlobularCluster 6.2 12', Great Pegasus Cluster
+IC1805 EmissionNebula 6.5 150', Heart Nebula
+NGC5128 LenticularGalaxy 6.8 26'x20', Centaurus A
+M81 SpiralGalaxy 6.8 26'x14', Bode's Galaxy
+NGC7023 ReflectionNebula 6.8 18', Iris Nebula
+M18 OpenCluster 6.9 9', Black Swan
+M17 EmissionNebula 7 46'x37', Omega Nebula
+NGC6960 SupernovaRemnant 7.0 180', Veil Nebula (Western)
+NGC2467 EmissionNebula 7.1 14', Skull and Crossbones Nebula
+NGC6302 PlanetaryNebula 7.1 3', Bug Nebula
+NGC7380 EmissionNebula 7.2 25', Wizard Nebula
+IC4628 EmissionNebula 7.3 90', Prawn Nebula
+NGC6888 EmissionNebula 7.4 18'x12', Crescent Nebula
+NGC281 EmissionNebula 7.4 35', Pacman Nebula
+M83 SpiralGalaxy 7.5 13'x12', Southern Pinwheel Galaxy
+NGC7293 PlanetaryNebula 7.6 25', Helix Nebula
+M101 SpiralGalaxy 7.7 27'x26', Pinwheel Galaxy
+NGC55 SpiralGalaxy 7.9 32'x6', The Whale Galaxy
+M20 EmissionNebula 8 28'x28', Trifid Nebula
+M27 PlanetaryNebula 8 8'x4', Dumbbell Nebula
+M1 SupernovaRemnant 8 6'x4', Crab Nebula
+NGC253 SpiralGalaxy 8 28'x7', Sculptor Galaxy
+NGC6543 PlanetaryNebula 8.1 4', Cat's Eye Nebula
+M94 SpiralGalaxy 8.1 11'x9', Croc's Eye
+M51 SpiralGalaxy 8.1 11'x8', Whirlpool Galaxy
+M104 SpiralGalaxy 8.3 9'x4', Sombrero Galaxy
+M64 SpiralGalaxy 8.5 9'x5', Black Eye Galaxy
+M87 EllipticalGalaxy 8.6 7', Virgo A
+M63 SpiralGalaxy 8.6 12'x8', Sunflower Galaxy
+NGC2237 EmissionNebula 9 90', Rosette Nebula
+NGC3576 EmissionNebula 9 20', Statue of Liberty Nebula
+M57 PlanetaryNebula 9 1.3', Ring Nebula
+NGC4631 SpiralGalaxy 9.8 16'x3', Whale Galaxy
+NGC6334 EmissionNebula 10 40'x23', Cat's Paw Nebula
+NGC6357 EmissionNebula 10 44', War and Peace Nebula
+NGC7635 EmissionNebula 10 15'x8', Bubble Nebula
+M74 SpiralGalaxy 10.0 10.5'x9.5', Phantom Galaxy
+NGC2024 EmissionNebula 10 30', Flame Nebula
+IC410 EmissionNebula 10 55', Tadpole Nebula
+NGC4565 SpiralGalaxy 10.4 16'x2', Needle Galaxy
+M97 PlanetaryNebula 11 3', Owl Nebula
+M76 PlanetaryNebula 11 2'x1', Little Dumbbell
+Arp244 PeculiarGalaxy 11.2 5.2'x3.1', Antennae Galaxies
+NGC2736 SupernovaRemnant 12 30'x7', Pencil Nebula (part of Vela)

@@ -1,0 +1,14 @@
+Q1:Guess which constellation is shown in the picture.
+
+https://cdn.discordapp.com/attachments/702232768935100516/721060923883913256/images.jpg
+
+
+A: Leo Major,Leo
+U: Leo
+Total pts: 1
+
+Q1:You use a 15mm eyepiece on a telescope with 600mm focal length. What magnification would you get?
+A: 40×,40
+U: 40x
+Total pts: 1
+
