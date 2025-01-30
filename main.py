@@ -15,7 +15,7 @@ from discord_slash.utils import manage_commands
 bot = commands.Bot(command_prefix=".", intents=discord.Intents.default())
 slash = SlashCommand(bot, auto_register=False)
 bot.remove_command("help")
-token = 'NTk0MjM1OTg3NDM4MDc1OTE1.XRbEmQ.SJd9xt0XbRFT_tVPb-XJucu5FSI'
+token = 'token'
 
 f=open("secogs.txt","r")
 cogslist = f.readlines()
